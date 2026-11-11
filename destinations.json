@@ -1,0 +1,2271 @@
+[
+  {
+    "slug": "costa-rica",
+    "name": "Costa Rica",
+    "country": "Costa Rica",
+    "lat": 10,
+    "lng": -85,
+    "notes": "",
+    "media": [
+      {
+        "src": "assets/costa-rica-IMG_1683.jpeg",
+        "section": "gallery",
+        "date": "2016-01-04",
+        "caption": "",
+        "restaurant": null
+      },
+      {
+        "src": "assets/costa-rica-IMG_1700.jpeg",
+        "section": "gallery",
+        "date": "2016-01-07",
+        "caption": "",
+        "restaurant": null
+      },
+      {
+        "src": "assets/costa-rica-IMG_1703.jpeg",
+        "section": "gallery",
+        "date": "2016-01-07",
+        "caption": "",
+        "restaurant": null
+      },
+      {
+        "src": "assets/costa-rica-IMG_1707.jpeg",
+        "section": "gallery",
+        "date": "2016-01-07",
+        "caption": "",
+        "restaurant": null
+      },
+      {
+        "src": "assets/costa-rica-IMG_1712.jpeg",
+        "section": "gallery",
+        "date": "2016-01-07",
+        "caption": "",
+        "restaurant": null
+      },
+      {
+        "src": "assets/costa-rica-IMG_1719.jpeg",
+        "section": "gallery",
+        "date": "2016-01-07",
+        "caption": "",
+        "restaurant": null
+      },
+      {
+        "src": "assets/costa-rica-IMG_1725.jpeg",
+        "section": "gallery",
+        "date": "2016-01-07",
+        "caption": "",
+        "restaurant": null
+      },
+      {
+        "src": "assets/costa-rica-IMG_1728.jpeg",
+        "section": "gallery",
+        "date": "2016-01-07",
+        "caption": "",
+        "restaurant": null
+      },
+      {
+        "src": "assets/costa-rica-IMG_1731.jpeg",
+        "section": "gallery",
+        "date": "2016-01-07",
+        "caption": "",
+        "restaurant": null
+      },
+      {
+        "src": "assets/costa-rica-IMG_1732.jpeg",
+        "section": "gallery",
+        "date": "2016-01-07",
+        "caption": "",
+        "restaurant": null
+      },
+      {
+        "src": "assets/costa-rica-IMG_1735.jpeg",
+        "section": "gallery",
+        "date": "2016-01-07",
+        "caption": "",
+        "restaurant": null
+      },
+      {
+        "src": "assets/costa-rica-IMG_1738.jpeg",
+        "section": "gallery",
+        "date": "2016-01-07",
+        "caption": "",
+        "restaurant": null
+      },
+      {
+        "src": "assets/costa-rica-IMG_1753.jpeg",
+        "section": "gallery",
+        "date": "2016-01-07",
+        "caption": "",
+        "restaurant": null
+      },
+      {
+        "src": "assets/costa-rica-IMG_1757.jpeg",
+        "section": "gallery",
+        "date": "2016-01-07",
+        "caption": "",
+        "restaurant": null
+      },
+      {
+        "src": "assets/costa-rica-IMG_1760.jpeg",
+        "section": "gallery",
+        "date": "2016-01-07",
+        "caption": "",
+        "restaurant": null
+      },
+      {
+        "src": "assets/costa-rica-IMG_1777.jpeg",
+        "section": "gallery",
+        "date": "2016-01-10",
+        "caption": "",
+        "restaurant": null
+      },
+      {
+        "src": "assets/costa-rica-IMG_3860.jpeg",
+        "section": "gallery",
+        "date": "2016-01-07",
+        "caption": "",
+        "restaurant": null
+      },
+      {
+        "src": "assets/costa-rica-IMG_3874.jpeg",
+        "section": "gallery",
+        "date": "2016-01-07",
+        "caption": "",
+        "restaurant": null
+      },
+      {
+        "src": "assets/costa-rica-IMG_3879.jpeg",
+        "section": "gallery",
+        "date": "2016-01-07",
+        "caption": "",
+        "restaurant": null
+      },
+      {
+        "src": "assets/costa-rica-IMG_8401.jpeg",
+        "section": "gallery",
+        "date": "2026-03-23",
+        "caption": "",
+        "restaurant": null
+      },
+      {
+        "src": "assets/costa-rica-eats-IMG_1721.jpeg",
+        "section": "eats",
+        "date": "2016-01-07",
+        "caption": "",
+        "restaurant": null
+      },
+      {
+        "src": "assets/costa-rica-eats-IMG_1766.jpeg",
+        "section": "eats",
+        "date": "2016-01-08",
+        "caption": "",
+        "restaurant": null
+      },
+      {
+        "src": "assets/costa-rica-eats-IMG_1778.jpeg",
+        "section": "eats",
+        "date": "2016-01-10",
+        "caption": "",
+        "restaurant": null
+      }
+    ]
+  },
+  {
+    "slug": "amsterdam",
+    "name": "Amsterdam",
+    "country": "Netherlands",
+    "lat": 52,
+    "lng": 5,
+    "notes": "",
+    "media": [
+      {
+        "src": "assets/amsterdam-IMG_0307.jpeg",
+        "section": "gallery",
+        "date": "2023-08-07",
+        "caption": "",
+        "restaurant": null
+      },
+      {
+        "src": "assets/amsterdam-IMG_1426.jpeg",
+        "section": "gallery",
+        "date": "2024-08-17",
+        "caption": "",
+        "restaurant": null
+      },
+      {
+        "src": "assets/amsterdam-IMG_1432.jpeg",
+        "section": "gallery",
+        "date": "2024-08-17",
+        "caption": "",
+        "restaurant": null
+      },
+      {
+        "src": "assets/amsterdam-IMG_1436.jpeg",
+        "section": "gallery",
+        "date": "2024-08-17",
+        "caption": "",
+        "restaurant": null
+      },
+      {
+        "src": "assets/amsterdam-IMG_1461.jpeg",
+        "section": "gallery",
+        "date": "2024-08-17",
+        "caption": "",
+        "restaurant": null
+      },
+      {
+        "src": "assets/amsterdam-IMG_1464.jpeg",
+        "section": "gallery",
+        "date": "2024-08-17",
+        "caption": "",
+        "restaurant": null
+      },
+      {
+        "src": "assets/amsterdam-IMG_1471.jpeg",
+        "section": "gallery",
+        "date": "2024-08-17",
+        "caption": "",
+        "restaurant": null
+      },
+      {
+        "src": "assets/amsterdam-IMG_1473.jpeg",
+        "section": "gallery",
+        "date": "2024-08-17",
+        "caption": "",
+        "restaurant": null
+      },
+      {
+        "src": "assets/amsterdam-IMG_1484.jpeg",
+        "section": "gallery",
+        "date": "2024-08-17",
+        "caption": "",
+        "restaurant": null
+      },
+      {
+        "src": "assets/amsterdam-IMG_1494.jpeg",
+        "section": "gallery",
+        "date": "2024-08-17",
+        "caption": "",
+        "restaurant": null
+      },
+      {
+        "src": "assets/amsterdam-IMG_1539.jpeg",
+        "section": "gallery",
+        "date": "2024-08-19",
+        "caption": "",
+        "restaurant": null
+      },
+      {
+        "src": "assets/amsterdam-IMG_1542.jpeg",
+        "section": "gallery",
+        "date": "2024-08-19",
+        "caption": "",
+        "restaurant": null
+      },
+      {
+        "src": "assets/amsterdam-IMG_1558.jpeg",
+        "section": "gallery",
+        "date": "2024-08-19",
+        "caption": "",
+        "restaurant": null
+      },
+      {
+        "src": "assets/amsterdam-IMG_1560.jpeg",
+        "section": "gallery",
+        "date": "2024-08-19",
+        "caption": "",
+        "restaurant": null
+      },
+      {
+        "src": "assets/amsterdam-IMG_5164.jpeg",
+        "section": "gallery",
+        "date": "2023-08-06",
+        "caption": "",
+        "restaurant": null
+      },
+      {
+        "src": "assets/amsterdam-IMG_5200.jpeg",
+        "section": "gallery",
+        "date": "2023-08-06",
+        "caption": "",
+        "restaurant": null
+      },
+      {
+        "src": "assets/amsterdam-IMG_5222.jpeg",
+        "section": "gallery",
+        "date": "2023-08-07",
+        "caption": "",
+        "restaurant": null
+      },
+      {
+        "src": "assets/amsterdam-IMG_7102.jpeg",
+        "section": "gallery",
+        "date": "2024-08-19",
+        "caption": "",
+        "restaurant": null
+      }
+    ]
+  },
+  {
+    "slug": "cabo",
+    "name": "Cabo",
+    "country": "Mexico",
+    "lat": 23,
+    "lng": -110,
+    "notes": "",
+    "media": [
+      {
+        "src": "assets/cabo-IMG_0388.jpeg",
+        "section": "gallery",
+        "date": "2026-03-22",
+        "caption": "",
+        "restaurant": null
+      },
+      {
+        "src": "assets/cabo-IMG_0462.jpeg",
+        "section": "gallery",
+        "date": "2026-03-24",
+        "caption": "",
+        "restaurant": null
+      },
+      {
+        "src": "assets/cabo-IMG_0464.jpeg",
+        "section": "gallery",
+        "date": "2026-03-24",
+        "caption": "",
+        "restaurant": null
+      },
+      {
+        "src": "assets/cabo-IMG_8030.jpeg",
+        "section": "gallery",
+        "date": "2026-03-24",
+        "caption": "",
+        "restaurant": null
+      },
+      {
+        "src": "assets/cabo-IMG_8034.jpeg",
+        "section": "gallery",
+        "date": "2026-03-24",
+        "caption": "",
+        "restaurant": null
+      },
+      {
+        "src": "assets/cabo-IMG_8036.jpeg",
+        "section": "gallery",
+        "date": "2026-03-24",
+        "caption": "",
+        "restaurant": null
+      },
+      {
+        "src": "assets/cabo-IMG_9837.jpeg",
+        "section": "gallery",
+        "date": "2026-03-22",
+        "caption": "",
+        "restaurant": null
+      },
+      {
+        "src": "assets/cabo-IMG_9865.jpeg",
+        "section": "gallery",
+        "date": "2026-03-23",
+        "caption": "",
+        "restaurant": null
+      },
+      {
+        "src": "assets/cabo-IMG_9872.jpeg",
+        "section": "gallery",
+        "date": "2026-03-23",
+        "caption": "",
+        "restaurant": null
+      },
+      {
+        "src": "assets/cabo-IMG_9894.jpeg",
+        "section": "gallery",
+        "date": "2026-03-24",
+        "caption": "",
+        "restaurant": null
+      },
+      {
+        "src": "assets/cabo-IMG_9908.jpeg",
+        "section": "gallery",
+        "date": "2026-03-24",
+        "caption": "",
+        "restaurant": null
+      },
+      {
+        "src": "assets/cabo-IMG_9924.jpeg",
+        "section": "gallery",
+        "date": "2026-03-24",
+        "caption": "",
+        "restaurant": null
+      },
+      {
+        "src": "assets/cabo-IMG_9970.jpeg",
+        "section": "gallery",
+        "date": "2026-03-24",
+        "caption": "",
+        "restaurant": null
+      },
+      {
+        "src": "assets/cabo-eats-IMG_9927.jpeg",
+        "section": "eats",
+        "date": "2026-03-24",
+        "caption": "",
+        "restaurant": null
+      },
+      {
+        "src": "assets/cabo-eats-IMG_9931.jpeg",
+        "section": "eats",
+        "date": "2026-03-24",
+        "caption": "",
+        "restaurant": null
+      }
+    ]
+  },
+  {
+    "slug": "cancun",
+    "name": "Cancun",
+    "country": "Mexico",
+    "lat": 21,
+    "lng": -87,
+    "notes": "",
+    "media": [
+      {
+        "src": "assets/cancun-IMG_4808.jpeg",
+        "section": "gallery",
+        "date": "2017-07-19",
+        "caption": "",
+        "restaurant": null
+      }
+    ]
+  },
+  {
+    "slug": "la-paz",
+    "name": "La Paz",
+    "country": "Mexico",
+    "lat": 24,
+    "lng": -110,
+    "notes": "",
+    "media": [
+      {
+        "src": "assets/la-paz-IMG_1681.jpeg",
+        "section": "gallery",
+        "date": "2026-06-18",
+        "caption": "",
+        "restaurant": null
+      },
+      {
+        "src": "assets/la-paz-IMG_1686.jpeg",
+        "section": "gallery",
+        "date": "2026-06-18",
+        "caption": "",
+        "restaurant": null
+      },
+      {
+        "src": "assets/la-paz-IMG_1700.jpeg",
+        "section": "gallery",
+        "date": "2026-06-18",
+        "caption": "",
+        "restaurant": null
+      },
+      {
+        "src": "assets/la-paz-IMG_1703.jpeg",
+        "section": "gallery",
+        "date": "2026-06-18",
+        "caption": "",
+        "restaurant": null
+      },
+      {
+        "src": "assets/la-paz-IMG_1713.jpeg",
+        "section": "gallery",
+        "date": "2026-06-18",
+        "caption": "",
+        "restaurant": null
+      },
+      {
+        "src": "assets/la-paz-IMG_1722.jpeg",
+        "section": "gallery",
+        "date": "2026-06-19",
+        "caption": "",
+        "restaurant": null
+      },
+      {
+        "src": "assets/la-paz-IMG_1726.jpeg",
+        "section": "gallery",
+        "date": "2026-06-19",
+        "caption": "",
+        "restaurant": null
+      },
+      {
+        "src": "assets/la-paz-IMG_1730.jpeg",
+        "section": "gallery",
+        "date": "2026-06-19",
+        "caption": "",
+        "restaurant": null
+      },
+      {
+        "src": "assets/la-paz-IMG_1787.jpeg",
+        "section": "gallery",
+        "date": "2026-06-21",
+        "caption": "",
+        "restaurant": null
+      },
+      {
+        "src": "assets/la-paz-IMG_1803.jpeg",
+        "section": "gallery",
+        "date": "2026-06-21",
+        "caption": "",
+        "restaurant": null
+      },
+      {
+        "src": "assets/la-paz-IMG_1817.jpeg",
+        "section": "gallery",
+        "date": "2026-06-21",
+        "caption": "",
+        "restaurant": null
+      },
+      {
+        "src": "assets/la-paz-IMG_1819.jpeg",
+        "section": "gallery",
+        "date": "2026-06-21",
+        "caption": "",
+        "restaurant": null
+      },
+      {
+        "src": "assets/la-paz-IMG_1831.jpeg",
+        "section": "gallery",
+        "date": "2026-06-21",
+        "caption": "",
+        "restaurant": null
+      },
+      {
+        "src": "assets/la-paz-IMG_1838.jpeg",
+        "section": "gallery",
+        "date": "2026-06-21",
+        "caption": "",
+        "restaurant": null
+      },
+      {
+        "src": "assets/la-paz-eats-IMG_1847.jpeg",
+        "section": "eats",
+        "date": "2026-06-21",
+        "caption": "",
+        "restaurant": null
+      },
+      {
+        "src": "assets/la-paz-eats-IMG_1856.jpeg",
+        "section": "eats",
+        "date": "2026-06-21",
+        "caption": "",
+        "restaurant": null
+      },
+      {
+        "src": "assets/la-paz-eats-IMG_1861.jpeg",
+        "section": "eats",
+        "date": "2026-06-21",
+        "caption": "",
+        "restaurant": null
+      },
+      {
+        "src": "assets/la-paz-eats-IMG_1863.jpeg",
+        "section": "eats",
+        "date": "2026-06-21",
+        "caption": "",
+        "restaurant": null
+      },
+      {
+        "src": "assets/la-paz-eats-IMG_1867.jpeg",
+        "section": "eats",
+        "date": "2026-06-21",
+        "caption": "",
+        "restaurant": null
+      }
+    ]
+  },
+  {
+    "slug": "vatican-city",
+    "name": "Vatican City",
+    "country": "Vatican City",
+    "lat": 42,
+    "lng": 12,
+    "notes": "",
+    "media": [
+      {
+        "src": "assets/vatican-city-IMG_4257.jpeg",
+        "section": "gallery",
+        "date": "2019-07-10",
+        "caption": "",
+        "restaurant": null
+      },
+      {
+        "src": "assets/vatican-city-IMG_4260.jpeg",
+        "section": "gallery",
+        "date": "2019-07-10",
+        "caption": "",
+        "restaurant": null
+      },
+      {
+        "src": "assets/vatican-city-IMG_4263.jpeg",
+        "section": "gallery",
+        "date": "2019-07-10",
+        "caption": "",
+        "restaurant": null
+      },
+      {
+        "src": "assets/vatican-city-IMG_4265.jpeg",
+        "section": "gallery",
+        "date": "2019-07-10",
+        "caption": "",
+        "restaurant": null
+      },
+      {
+        "src": "assets/vatican-city-IMG_4275.jpeg",
+        "section": "gallery",
+        "date": "2019-07-10",
+        "caption": "",
+        "restaurant": null
+      },
+      {
+        "src": "assets/vatican-city-IMG_4278.jpeg",
+        "section": "gallery",
+        "date": "2019-07-10",
+        "caption": "",
+        "restaurant": null
+      },
+      {
+        "src": "assets/vatican-city-IMG_4289.jpeg",
+        "section": "gallery",
+        "date": "2019-07-10",
+        "caption": "",
+        "restaurant": null
+      },
+      {
+        "src": "assets/vatican-city-IMG_4293.jpeg",
+        "section": "gallery",
+        "date": "2019-07-10",
+        "caption": "",
+        "restaurant": null
+      },
+      {
+        "src": "assets/vatican-city-IMG_4295.jpeg",
+        "section": "gallery",
+        "date": "2019-07-10",
+        "caption": "",
+        "restaurant": null
+      },
+      {
+        "src": "assets/vatican-city-IMG_4306.jpeg",
+        "section": "gallery",
+        "date": "2019-07-10",
+        "caption": "",
+        "restaurant": null
+      },
+      {
+        "src": "assets/vatican-city-IMG_4307.jpeg",
+        "section": "gallery",
+        "date": "2019-07-10",
+        "caption": "",
+        "restaurant": null
+      },
+      {
+        "src": "assets/vatican-city-IMG_4308.jpeg",
+        "section": "gallery",
+        "date": "2019-07-10",
+        "caption": "",
+        "restaurant": null
+      },
+      {
+        "src": "assets/vatican-city-IMG_4321.jpeg",
+        "section": "gallery",
+        "date": "2019-07-10",
+        "caption": "",
+        "restaurant": null
+      },
+      {
+        "src": "assets/vatican-city-IMG_4323.jpeg",
+        "section": "gallery",
+        "date": "2019-07-10",
+        "caption": "",
+        "restaurant": null
+      },
+      {
+        "src": "assets/vatican-city-IMG_4350.jpeg",
+        "section": "gallery",
+        "date": "2019-07-10",
+        "caption": "",
+        "restaurant": null
+      },
+      {
+        "src": "assets/vatican-city-IMG_4352.jpeg",
+        "section": "gallery",
+        "date": "2019-07-10",
+        "caption": "",
+        "restaurant": null
+      },
+      {
+        "src": "assets/vatican-city-IMG_4366.jpeg",
+        "section": "gallery",
+        "date": "2019-07-10",
+        "caption": "",
+        "restaurant": null
+      },
+      {
+        "src": "assets/vatican-city-IMG_4369.jpeg",
+        "section": "gallery",
+        "date": "2019-07-10",
+        "caption": "",
+        "restaurant": null
+      },
+      {
+        "src": "assets/vatican-city-IMG_4370.jpeg",
+        "section": "gallery",
+        "date": "2019-07-10",
+        "caption": "",
+        "restaurant": null
+      },
+      {
+        "src": "assets/vatican-city-IMG_4384.jpeg",
+        "section": "gallery",
+        "date": "2019-07-10",
+        "caption": "",
+        "restaurant": null
+      },
+      {
+        "src": "assets/vatican-city-IMG_4386.jpeg",
+        "section": "gallery",
+        "date": "2019-07-10",
+        "caption": "",
+        "restaurant": null
+      },
+      {
+        "src": "assets/vatican-city-IMG_4394.jpeg",
+        "section": "gallery",
+        "date": "2019-07-10",
+        "caption": "",
+        "restaurant": null
+      },
+      {
+        "src": "assets/vatican-city-IMG_4516.jpeg",
+        "section": "gallery",
+        "date": "2019-07-10",
+        "caption": "",
+        "restaurant": null
+      }
+    ]
+  },
+  {
+    "slug": "barcelona",
+    "name": "Barcelona",
+    "country": "Spain",
+    "lat": 41,
+    "lng": 2,
+    "notes": "",
+    "media": [
+      {
+        "src": "assets/barcelona-IMG_6633.jpeg",
+        "section": "gallery",
+        "date": "2022-06-21",
+        "caption": "",
+        "restaurant": null
+      },
+      {
+        "src": "assets/barcelona-IMG_6660.jpeg",
+        "section": "gallery",
+        "date": "2022-06-21",
+        "caption": "",
+        "restaurant": null
+      },
+      {
+        "src": "assets/barcelona-IMG_6674.jpeg",
+        "section": "gallery",
+        "date": "2022-06-22",
+        "caption": "",
+        "restaurant": null
+      },
+      {
+        "src": "assets/barcelona-IMG_6681.jpeg",
+        "section": "gallery",
+        "date": "2022-06-22",
+        "caption": "",
+        "restaurant": null
+      },
+      {
+        "src": "assets/barcelona-IMG_6686.jpeg",
+        "section": "gallery",
+        "date": "2022-06-22",
+        "caption": "",
+        "restaurant": null
+      },
+      {
+        "src": "assets/barcelona-IMG_6697.jpeg",
+        "section": "gallery",
+        "date": "2022-06-22",
+        "caption": "",
+        "restaurant": null
+      },
+      {
+        "src": "assets/barcelona-IMG_6705.jpeg",
+        "section": "gallery",
+        "date": "2022-06-22",
+        "caption": "",
+        "restaurant": null
+      },
+      {
+        "src": "assets/barcelona-IMG_6721.jpeg",
+        "section": "gallery",
+        "date": "2022-06-22",
+        "caption": "",
+        "restaurant": null
+      },
+      {
+        "src": "assets/barcelona-IMG_9369.jpeg",
+        "section": "gallery",
+        "date": "2022-06-23",
+        "caption": "",
+        "restaurant": null
+      }
+    ]
+  },
+  {
+    "slug": "cannes",
+    "name": "Cannes",
+    "country": "France",
+    "lat": 44,
+    "lng": 7,
+    "notes": "",
+    "media": [
+      {
+        "src": "assets/cannes-IMG_4427.jpeg",
+        "section": "gallery",
+        "date": "2023-07-23",
+        "caption": "",
+        "restaurant": null
+      },
+      {
+        "src": "assets/cannes-IMG_4435.jpeg",
+        "section": "gallery",
+        "date": "2023-07-23",
+        "caption": "",
+        "restaurant": null
+      },
+      {
+        "src": "assets/cannes-IMG_4441.jpeg",
+        "section": "gallery",
+        "date": "2023-07-23",
+        "caption": "",
+        "restaurant": null
+      },
+      {
+        "src": "assets/cannes-IMG_4476.jpeg",
+        "section": "gallery",
+        "date": "2023-07-24",
+        "caption": "",
+        "restaurant": null
+      },
+      {
+        "src": "assets/cannes-IMG_4479.jpeg",
+        "section": "gallery",
+        "date": "2023-07-24",
+        "caption": "",
+        "restaurant": null
+      },
+      {
+        "src": "assets/cannes-IMG_4491.jpeg",
+        "section": "gallery",
+        "date": "2023-07-24",
+        "caption": "",
+        "restaurant": null
+      }
+    ]
+  },
+  {
+    "slug": "germany",
+    "name": "Germany",
+    "country": "Germany",
+    "lat": 48,
+    "lng": 12,
+    "notes": "",
+    "media": [
+      {
+        "src": "assets/germany-IMG_5094.jpeg",
+        "section": "gallery",
+        "date": "2023-08-04",
+        "caption": "",
+        "restaurant": null
+      },
+      {
+        "src": "assets/germany-IMG_5095.jpeg",
+        "section": "gallery",
+        "date": "2023-08-04",
+        "caption": "",
+        "restaurant": null
+      },
+      {
+        "src": "assets/germany-IMG_5097.jpeg",
+        "section": "gallery",
+        "date": "2023-08-04",
+        "caption": "",
+        "restaurant": null
+      },
+      {
+        "src": "assets/germany-IMG_5099.jpeg",
+        "section": "gallery",
+        "date": "2023-08-04",
+        "caption": "",
+        "restaurant": null
+      },
+      {
+        "src": "assets/germany-IMG_5114.jpeg",
+        "section": "gallery",
+        "date": "2023-08-05",
+        "caption": "",
+        "restaurant": null
+      },
+      {
+        "src": "assets/germany-IMG_5134.jpeg",
+        "section": "gallery",
+        "date": "2023-08-05",
+        "caption": "",
+        "restaurant": null
+      },
+      {
+        "src": "assets/germany-IMG_5137.jpeg",
+        "section": "gallery",
+        "date": "2023-08-05",
+        "caption": "",
+        "restaurant": null
+      },
+      {
+        "src": "assets/germany-IMG_5139.jpeg",
+        "section": "gallery",
+        "date": "2023-08-05",
+        "caption": "",
+        "restaurant": null
+      },
+      {
+        "src": "assets/germany-IMG_7699.jpeg",
+        "section": "gallery",
+        "date": "2023-08-04",
+        "caption": "",
+        "restaurant": null
+      }
+    ]
+  },
+  {
+    "slug": "london",
+    "name": "London",
+    "country": "United Kingdom",
+    "lat": 52,
+    "lng": 0,
+    "notes": "",
+    "media": [
+      {
+        "src": "assets/london-IMG_3882.jpeg",
+        "section": "gallery",
+        "date": "2023-07-17",
+        "caption": "",
+        "restaurant": null
+      },
+      {
+        "src": "assets/london-IMG_3885.jpeg",
+        "section": "gallery",
+        "date": "2023-07-17",
+        "caption": "",
+        "restaurant": null
+      },
+      {
+        "src": "assets/london-IMG_3891.jpeg",
+        "section": "gallery",
+        "date": "2023-07-17",
+        "caption": "",
+        "restaurant": null
+      },
+      {
+        "src": "assets/london-IMG_3933.jpeg",
+        "section": "gallery",
+        "date": "2023-07-18",
+        "caption": "",
+        "restaurant": null
+      },
+      {
+        "src": "assets/london-IMG_3935.jpeg",
+        "section": "gallery",
+        "date": "2023-07-18",
+        "caption": "",
+        "restaurant": null
+      },
+      {
+        "src": "assets/london-IMG_3937.jpeg",
+        "section": "gallery",
+        "date": "2023-07-18",
+        "caption": "",
+        "restaurant": null
+      },
+      {
+        "src": "assets/london-IMG_3964.jpeg",
+        "section": "gallery",
+        "date": "2023-07-18",
+        "caption": "",
+        "restaurant": null
+      },
+      {
+        "src": "assets/london-IMG_3988.jpeg",
+        "section": "gallery",
+        "date": "2023-07-19",
+        "caption": "",
+        "restaurant": null
+      },
+      {
+        "src": "assets/london-IMG_4025.jpeg",
+        "section": "gallery",
+        "date": "2023-07-19",
+        "caption": "",
+        "restaurant": null
+      },
+      {
+        "src": "assets/london-IMG_7126.jpeg",
+        "section": "gallery",
+        "date": "2023-07-17",
+        "caption": "",
+        "restaurant": null
+      },
+      {
+        "src": "assets/london-eats-IMG_3941.jpeg",
+        "section": "eats",
+        "date": "2023-07-18",
+        "caption": "",
+        "restaurant": "Borough Market"
+      }
+    ]
+  },
+  {
+    "slug": "madrid",
+    "name": "Madrid",
+    "country": "Spain",
+    "lat": 40,
+    "lng": -4,
+    "notes": "",
+    "media": [
+      {
+        "src": "assets/madrid-IMG_7996.jpeg",
+        "section": "gallery",
+        "date": "2025-11-21",
+        "caption": "",
+        "restaurant": null
+      },
+      {
+        "src": "assets/madrid-IMG_8022.jpeg",
+        "section": "gallery",
+        "date": "2025-11-22",
+        "caption": "",
+        "restaurant": null
+      },
+      {
+        "src": "assets/madrid-IMG_8051.jpeg",
+        "section": "gallery",
+        "date": "2025-11-23",
+        "caption": "",
+        "restaurant": null
+      },
+      {
+        "src": "assets/madrid-IMG_8074.jpeg",
+        "section": "gallery",
+        "date": "2025-11-23",
+        "caption": "",
+        "restaurant": null
+      },
+      {
+        "src": "assets/madrid-IMG_8075.jpeg",
+        "section": "gallery",
+        "date": "2025-11-23",
+        "caption": "",
+        "restaurant": null
+      },
+      {
+        "src": "assets/madrid-IMG_8085.jpeg",
+        "section": "gallery",
+        "date": "2025-11-23",
+        "caption": "",
+        "restaurant": null
+      },
+      {
+        "src": "assets/madrid-IMG_8089.jpeg",
+        "section": "gallery",
+        "date": "2025-11-23",
+        "caption": "",
+        "restaurant": null
+      },
+      {
+        "src": "assets/madrid-IMG_8105.jpeg",
+        "section": "gallery",
+        "date": "2025-11-24",
+        "caption": "",
+        "restaurant": null
+      },
+      {
+        "src": "assets/madrid-IMG_8135.jpeg",
+        "section": "gallery",
+        "date": "2025-11-24",
+        "caption": "",
+        "restaurant": null
+      },
+      {
+        "src": "assets/madrid-IMG_8164.jpeg",
+        "section": "gallery",
+        "date": "2025-11-24",
+        "caption": "",
+        "restaurant": null
+      },
+      {
+        "src": "assets/madrid-IMG_8207.jpeg",
+        "section": "gallery",
+        "date": "2025-11-24",
+        "caption": "",
+        "restaurant": null
+      },
+      {
+        "src": "assets/madrid-IMG_8235.jpeg",
+        "section": "gallery",
+        "date": "2025-11-24",
+        "caption": "",
+        "restaurant": null
+      },
+      {
+        "src": "assets/madrid-IMG_8252.jpeg",
+        "section": "gallery",
+        "date": "2025-11-24",
+        "caption": "",
+        "restaurant": null
+      },
+      {
+        "src": "assets/madrid-IMG_8266.jpeg",
+        "section": "gallery",
+        "date": "2025-11-25",
+        "caption": "",
+        "restaurant": null
+      },
+      {
+        "src": "assets/madrid-IMG_8293.jpeg",
+        "section": "gallery",
+        "date": "2025-11-25",
+        "caption": "",
+        "restaurant": null
+      },
+      {
+        "src": "assets/madrid-IMG_8324.jpeg",
+        "section": "gallery",
+        "date": "2025-11-25",
+        "caption": "",
+        "restaurant": null
+      },
+      {
+        "src": "assets/madrid-IMG_8327.jpeg",
+        "section": "gallery",
+        "date": "2025-11-25",
+        "caption": "",
+        "restaurant": null
+      },
+      {
+        "src": "assets/madrid-IMG_9041.jpeg",
+        "section": "gallery",
+        "date": "2025-11-26",
+        "caption": "",
+        "restaurant": null
+      },
+      {
+        "src": "assets/madrid-eats-IMG_8015.jpeg",
+        "section": "eats",
+        "date": "2025-11-22",
+        "caption": "",
+        "restaurant": null
+      },
+      {
+        "src": "assets/madrid-eats-IMG_8018.jpeg",
+        "section": "eats",
+        "date": "2025-11-22",
+        "caption": "",
+        "restaurant": null
+      },
+      {
+        "src": "assets/madrid-eats-IMG_8099.jpeg",
+        "section": "eats",
+        "date": "2025-11-24",
+        "caption": "",
+        "restaurant": null
+      },
+      {
+        "src": "assets/madrid-eats-IMG_8105.jpeg",
+        "section": "eats",
+        "date": "2025-11-24",
+        "caption": "",
+        "restaurant": null
+      },
+      {
+        "src": "assets/madrid-eats-IMG_8108.jpeg",
+        "section": "eats",
+        "date": "2025-11-24",
+        "caption": "",
+        "restaurant": null
+      }
+    ]
+  },
+  {
+    "slug": "paris",
+    "name": "Paris",
+    "country": "France",
+    "lat": 49,
+    "lng": 2,
+    "notes": "",
+    "media": [
+      {
+        "src": "assets/paris-IMG_0362.jpeg",
+        "section": "gallery",
+        "date": "2023-07-21",
+        "caption": "",
+        "restaurant": null
+      },
+      {
+        "src": "assets/paris-IMG_4058.jpeg",
+        "section": "gallery",
+        "date": "2023-07-20",
+        "caption": "",
+        "restaurant": null
+      },
+      {
+        "src": "assets/paris-IMG_4070.jpeg",
+        "section": "gallery",
+        "date": "2023-07-20",
+        "caption": "",
+        "restaurant": null
+      },
+      {
+        "src": "assets/paris-IMG_4105.jpeg",
+        "section": "gallery",
+        "date": "2023-07-20",
+        "caption": "",
+        "restaurant": null
+      },
+      {
+        "src": "assets/paris-IMG_4133.jpeg",
+        "section": "gallery",
+        "date": "2023-07-20",
+        "caption": "",
+        "restaurant": null
+      },
+      {
+        "src": "assets/paris-IMG_4151.jpeg",
+        "section": "gallery",
+        "date": "2023-07-20",
+        "caption": "",
+        "restaurant": null
+      },
+      {
+        "src": "assets/paris-IMG_4166.jpeg",
+        "section": "gallery",
+        "date": "2023-07-21",
+        "caption": "",
+        "restaurant": null
+      },
+      {
+        "src": "assets/paris-IMG_4173.jpeg",
+        "section": "gallery",
+        "date": "2023-07-21",
+        "caption": "",
+        "restaurant": null
+      },
+      {
+        "src": "assets/paris-IMG_4176.jpeg",
+        "section": "gallery",
+        "date": "2023-07-21",
+        "caption": "",
+        "restaurant": null
+      },
+      {
+        "src": "assets/paris-IMG_4189.jpeg",
+        "section": "gallery",
+        "date": "2023-07-21",
+        "caption": "",
+        "restaurant": null
+      },
+      {
+        "src": "assets/paris-IMG_4205.jpeg",
+        "section": "gallery",
+        "date": "2023-07-21",
+        "caption": "",
+        "restaurant": null
+      },
+      {
+        "src": "assets/paris-IMG_4213.jpeg",
+        "section": "gallery",
+        "date": "2023-07-21",
+        "caption": "",
+        "restaurant": null
+      },
+      {
+        "src": "assets/paris-IMG_4257.jpeg",
+        "section": "gallery",
+        "date": "2023-07-21",
+        "caption": "",
+        "restaurant": null
+      },
+      {
+        "src": "assets/paris-IMG_4284.jpeg",
+        "section": "gallery",
+        "date": "2023-07-21",
+        "caption": "",
+        "restaurant": null
+      },
+      {
+        "src": "assets/paris-IMG_4304.jpeg",
+        "section": "gallery",
+        "date": "2023-07-21",
+        "caption": "",
+        "restaurant": null
+      },
+      {
+        "src": "assets/paris-IMG_4306.jpeg",
+        "section": "gallery",
+        "date": "2023-07-21",
+        "caption": "",
+        "restaurant": null
+      },
+      {
+        "src": "assets/paris-IMG_4322.jpeg",
+        "section": "gallery",
+        "date": "2023-07-21",
+        "caption": "",
+        "restaurant": null
+      },
+      {
+        "src": "assets/paris-IMG_4329.jpeg",
+        "section": "gallery",
+        "date": "2023-07-21",
+        "caption": "",
+        "restaurant": null
+      },
+      {
+        "src": "assets/paris-eats-IMG_4054.jpeg",
+        "section": "eats",
+        "date": "2023-07-20",
+        "caption": "",
+        "restaurant": null
+      }
+    ]
+  },
+  {
+    "slug": "switzerland",
+    "name": "Switzerland",
+    "country": "Switzerland",
+    "lat": 47,
+    "lng": 8,
+    "notes": "",
+    "media": [
+      {
+        "src": "assets/switzerland-IMG_4930.jpeg",
+        "section": "gallery",
+        "date": "2023-08-01",
+        "caption": "",
+        "restaurant": null
+      },
+      {
+        "src": "assets/switzerland-IMG_4988.jpeg",
+        "section": "gallery",
+        "date": "2023-08-03",
+        "caption": "",
+        "restaurant": null
+      },
+      {
+        "src": "assets/switzerland-IMG_4991.jpeg",
+        "section": "gallery",
+        "date": "2023-08-03",
+        "caption": "",
+        "restaurant": null
+      },
+      {
+        "src": "assets/switzerland-IMG_5007.jpeg",
+        "section": "gallery",
+        "date": "2023-08-03",
+        "caption": "",
+        "restaurant": null
+      },
+      {
+        "src": "assets/switzerland-IMG_5015.jpeg",
+        "section": "gallery",
+        "date": "2023-08-03",
+        "caption": "",
+        "restaurant": null
+      },
+      {
+        "src": "assets/switzerland-IMG_5039.jpeg",
+        "section": "gallery",
+        "date": "2023-08-03",
+        "caption": "",
+        "restaurant": null
+      },
+      {
+        "src": "assets/switzerland-IMG_5043.jpeg",
+        "section": "gallery",
+        "date": "2023-08-03",
+        "caption": "",
+        "restaurant": null
+      },
+      {
+        "src": "assets/switzerland-IMG_5066.jpeg",
+        "section": "gallery",
+        "date": "2023-08-04",
+        "caption": "",
+        "restaurant": null
+      },
+      {
+        "src": "assets/switzerland-IMG_6679.jpeg",
+        "section": "gallery",
+        "date": "2023-08-01",
+        "caption": "",
+        "restaurant": null
+      }
+    ]
+  },
+  {
+    "slug": "italy-bologna",
+    "name": "Bologna",
+    "country": "Italy",
+    "lat": 44,
+    "lng": 11,
+    "notes": "",
+    "media": [
+      {
+        "src": "assets/italy-bologna-IMG_0482.jpeg",
+        "section": "gallery",
+        "date": "2024-06-12",
+        "caption": "",
+        "restaurant": null
+      },
+      {
+        "src": "assets/italy-bologna-IMG_0488.jpeg",
+        "section": "gallery",
+        "date": "2024-06-12",
+        "caption": "",
+        "restaurant": null
+      },
+      {
+        "src": "assets/italy-bologna-IMG_0503.jpeg",
+        "section": "gallery",
+        "date": "2024-06-12",
+        "caption": "",
+        "restaurant": null
+      },
+      {
+        "src": "assets/italy-bologna-IMG_0508.jpeg",
+        "section": "gallery",
+        "date": "2024-06-12",
+        "caption": "",
+        "restaurant": null
+      },
+      {
+        "src": "assets/italy-bologna-IMG_0524.jpeg",
+        "section": "gallery",
+        "date": "2024-06-12",
+        "caption": "",
+        "restaurant": null
+      },
+      {
+        "src": "assets/italy-bologna-IMG_0547.jpeg",
+        "section": "gallery",
+        "date": "2024-06-13",
+        "caption": "",
+        "restaurant": null
+      },
+      {
+        "src": "assets/italy-bologna-IMG_0548.jpeg",
+        "section": "gallery",
+        "date": "2024-06-13",
+        "caption": "",
+        "restaurant": null
+      },
+      {
+        "src": "assets/italy-bologna-IMG_0554.jpeg",
+        "section": "gallery",
+        "date": "2024-06-13",
+        "caption": "",
+        "restaurant": null
+      },
+      {
+        "src": "assets/italy-bologna-IMG_0560.jpeg",
+        "section": "gallery",
+        "date": "2024-06-13",
+        "caption": "",
+        "restaurant": null
+      },
+      {
+        "src": "assets/italy-bologna-eats-IMG_0476.jpeg",
+        "section": "eats",
+        "date": "2024-06-12",
+        "caption": "",
+        "restaurant": null
+      }
+    ]
+  },
+  {
+    "slug": "italy-florence",
+    "name": "Florence",
+    "country": "Italy",
+    "lat": 44,
+    "lng": 11,
+    "notes": "",
+    "media": [
+      {
+        "src": "assets/italy-florence-IMG_4482.jpeg",
+        "section": "gallery",
+        "date": "2019-07-13",
+        "caption": "",
+        "restaurant": null
+      },
+      {
+        "src": "assets/italy-florence-IMG_4774.jpeg",
+        "section": "gallery",
+        "date": "2023-07-28",
+        "caption": "",
+        "restaurant": null
+      },
+      {
+        "src": "assets/italy-florence-IMG_4775.jpeg",
+        "section": "gallery",
+        "date": "2023-07-28",
+        "caption": "",
+        "restaurant": null
+      },
+      {
+        "src": "assets/italy-florence-IMG_4776.jpeg",
+        "section": "gallery",
+        "date": "2023-07-28",
+        "caption": "",
+        "restaurant": null
+      },
+      {
+        "src": "assets/italy-florence-IMG_4809.jpeg",
+        "section": "gallery",
+        "date": "2023-07-29",
+        "caption": "",
+        "restaurant": null
+      },
+      {
+        "src": "assets/italy-florence-IMG_4823.jpeg",
+        "section": "gallery",
+        "date": "2023-07-30",
+        "caption": "",
+        "restaurant": null
+      },
+      {
+        "src": "assets/italy-florence-IMG_4830.jpeg",
+        "section": "gallery",
+        "date": "2023-07-30",
+        "caption": "",
+        "restaurant": null
+      },
+      {
+        "src": "assets/italy-florence-IMG_4837.jpeg",
+        "section": "gallery",
+        "date": "2023-07-30",
+        "caption": "",
+        "restaurant": null
+      },
+      {
+        "src": "assets/italy-florence-IMG_4850.jpeg",
+        "section": "gallery",
+        "date": "2023-07-30",
+        "caption": "",
+        "restaurant": null
+      },
+      {
+        "src": "assets/italy-florence-IMG_4872.jpeg",
+        "section": "gallery",
+        "date": "2023-07-30",
+        "caption": "",
+        "restaurant": null
+      },
+      {
+        "src": "assets/italy-florence-IMG_4876.jpeg",
+        "section": "gallery",
+        "date": "2023-07-30",
+        "caption": "",
+        "restaurant": null
+      },
+      {
+        "src": "assets/italy-florence-IMG_4884.jpeg",
+        "section": "gallery",
+        "date": "2023-07-30",
+        "caption": "",
+        "restaurant": null
+      },
+      {
+        "src": "assets/italy-florence-eats-IMG_4503.jpeg",
+        "section": "eats",
+        "date": "2019-07-13",
+        "caption": "",
+        "restaurant": null
+      },
+      {
+        "src": "assets/italy-florence-eats-IMG_4513.jpeg",
+        "section": "eats",
+        "date": "2019-07-12",
+        "caption": "",
+        "restaurant": null
+      }
+    ]
+  },
+  {
+    "slug": "italy-pisa",
+    "name": "Pisa",
+    "country": "Italy",
+    "lat": 44,
+    "lng": 10,
+    "notes": "",
+    "media": [
+      {
+        "src": "assets/italy-pisa-IMG_4507.jpeg",
+        "section": "gallery",
+        "date": "2019-07-13",
+        "caption": "",
+        "restaurant": null
+      },
+      {
+        "src": "assets/italy-pisa-IMG_4508.jpeg",
+        "section": "gallery",
+        "date": "2019-07-13",
+        "caption": "",
+        "restaurant": null
+      },
+      {
+        "src": "assets/italy-pisa-IMG_4509.jpeg",
+        "section": "gallery",
+        "date": "2019-07-13",
+        "caption": "",
+        "restaurant": null
+      },
+      {
+        "src": "assets/italy-pisa-IMG_4754.jpeg",
+        "section": "gallery",
+        "date": "2023-07-28",
+        "caption": "",
+        "restaurant": null
+      },
+      {
+        "src": "assets/italy-pisa-IMG_4756.jpeg",
+        "section": "gallery",
+        "date": "2023-07-28",
+        "caption": "",
+        "restaurant": null
+      },
+      {
+        "src": "assets/italy-pisa-IMG_4759.jpeg",
+        "section": "gallery",
+        "date": "2023-07-28",
+        "caption": "",
+        "restaurant": null
+      },
+      {
+        "src": "assets/italy-pisa-IMG_4760.jpeg",
+        "section": "gallery",
+        "date": "2023-07-28",
+        "caption": "",
+        "restaurant": null
+      },
+      {
+        "src": "assets/italy-pisa-IMG_4765.jpeg",
+        "section": "gallery",
+        "date": "2023-07-28",
+        "caption": "",
+        "restaurant": null
+      },
+      {
+        "src": "assets/italy-pisa-IMG_7397.jpeg",
+        "section": "gallery",
+        "date": "2023-07-28",
+        "caption": "",
+        "restaurant": null
+      }
+    ]
+  },
+  {
+    "slug": "italy-rome",
+    "name": "Rome",
+    "country": "Italy",
+    "lat": 42,
+    "lng": 12,
+    "notes": "",
+    "media": [
+      {
+        "src": "assets/italy-rome-IMG_4397.jpeg",
+        "section": "gallery",
+        "date": "2019-07-10",
+        "caption": "",
+        "restaurant": null
+      },
+      {
+        "src": "assets/italy-rome-IMG_4515.jpeg",
+        "section": "gallery",
+        "date": "2019-07-10",
+        "caption": "",
+        "restaurant": null
+      },
+      {
+        "src": "assets/italy-rome-IMG_4788.jpeg",
+        "section": "gallery",
+        "date": "2023-07-29",
+        "caption": "",
+        "restaurant": null
+      },
+      {
+        "src": "assets/italy-rome-IMG_4789.jpeg",
+        "section": "gallery",
+        "date": "2023-07-29",
+        "caption": "",
+        "restaurant": null
+      },
+      {
+        "src": "assets/italy-rome-IMG_4794.jpeg",
+        "section": "gallery",
+        "date": "2023-07-29",
+        "caption": "",
+        "restaurant": null
+      },
+      {
+        "src": "assets/italy-rome-IMG_4796.jpeg",
+        "section": "gallery",
+        "date": "2023-07-29",
+        "caption": "",
+        "restaurant": null
+      },
+      {
+        "src": "assets/italy-rome-IMG_4799.jpeg",
+        "section": "gallery",
+        "date": "2023-07-29",
+        "caption": "",
+        "restaurant": null
+      },
+      {
+        "src": "assets/italy-rome-IMG_9248.jpeg",
+        "section": "gallery",
+        "date": "2019-07-09",
+        "caption": "",
+        "restaurant": null
+      }
+    ]
+  },
+  {
+    "slug": "italy-sirmione",
+    "name": "Sirmione",
+    "country": "Italy",
+    "lat": 45,
+    "lng": 11,
+    "notes": "",
+    "media": [
+      {
+        "src": "assets/italy-sirmione-IMG_0713.jpeg",
+        "section": "gallery",
+        "date": "2024-06-16",
+        "caption": "",
+        "restaurant": null
+      },
+      {
+        "src": "assets/italy-sirmione-IMG_0719.jpeg",
+        "section": "gallery",
+        "date": "2024-06-16",
+        "caption": "",
+        "restaurant": null
+      },
+      {
+        "src": "assets/italy-sirmione-IMG_0756.jpeg",
+        "section": "gallery",
+        "date": "2024-06-16",
+        "caption": "",
+        "restaurant": null
+      },
+      {
+        "src": "assets/italy-sirmione-IMG_0763.jpeg",
+        "section": "gallery",
+        "date": "2024-06-16",
+        "caption": "",
+        "restaurant": null
+      },
+      {
+        "src": "assets/italy-sirmione-IMG_0765.jpeg",
+        "section": "gallery",
+        "date": "2024-06-16",
+        "caption": "",
+        "restaurant": null
+      },
+      {
+        "src": "assets/italy-sirmione-IMG_0773.jpeg",
+        "section": "gallery",
+        "date": "2024-06-16",
+        "caption": "",
+        "restaurant": null
+      }
+    ]
+  },
+  {
+    "slug": "italy-venice",
+    "name": "Venice",
+    "country": "Italy",
+    "lat": 45,
+    "lng": 12,
+    "notes": "",
+    "media": [
+      {
+        "src": "assets/italy-venice-IMG_4893.jpeg",
+        "section": "gallery",
+        "date": "2023-07-31",
+        "caption": "",
+        "restaurant": null
+      }
+    ]
+  },
+  {
+    "slug": "italy-verona",
+    "name": "Verona",
+    "country": "Italy",
+    "lat": 45,
+    "lng": 11,
+    "notes": "",
+    "media": [
+      {
+        "src": "assets/italy-verona-IMG_0571.jpeg",
+        "section": "gallery",
+        "date": "2024-06-14",
+        "caption": "",
+        "restaurant": null
+      },
+      {
+        "src": "assets/italy-verona-IMG_0573.jpeg",
+        "section": "gallery",
+        "date": "2024-06-14",
+        "caption": "",
+        "restaurant": null
+      },
+      {
+        "src": "assets/italy-verona-IMG_0574.jpeg",
+        "section": "gallery",
+        "date": "2024-06-14",
+        "caption": "",
+        "restaurant": null
+      },
+      {
+        "src": "assets/italy-verona-IMG_0586.jpeg",
+        "section": "gallery",
+        "date": "2024-06-14",
+        "caption": "",
+        "restaurant": null
+      },
+      {
+        "src": "assets/italy-verona-IMG_0604.jpeg",
+        "section": "gallery",
+        "date": "2024-06-14",
+        "caption": "",
+        "restaurant": null
+      },
+      {
+        "src": "assets/italy-verona-IMG_0625.jpeg",
+        "section": "gallery",
+        "date": "2024-06-14",
+        "caption": "",
+        "restaurant": null
+      },
+      {
+        "src": "assets/italy-verona-IMG_0651.jpeg",
+        "section": "gallery",
+        "date": "2024-06-15",
+        "caption": "",
+        "restaurant": null
+      },
+      {
+        "src": "assets/italy-verona-IMG_0683.jpeg",
+        "section": "gallery",
+        "date": "2024-06-15",
+        "caption": "",
+        "restaurant": null
+      },
+      {
+        "src": "assets/italy-verona-IMG_0686.jpeg",
+        "section": "gallery",
+        "date": "2024-06-15",
+        "caption": "",
+        "restaurant": null
+      },
+      {
+        "src": "assets/italy-verona-IMG_7322.jpeg",
+        "section": "gallery",
+        "date": "2024-06-14",
+        "caption": "",
+        "restaurant": null
+      },
+      {
+        "src": "assets/italy-verona-IMG_7377.jpeg",
+        "section": "gallery",
+        "date": "2024-06-15",
+        "caption": "",
+        "restaurant": null
+      },
+      {
+        "src": "assets/italy-verona-eats-IMG_0628.jpeg",
+        "section": "eats",
+        "date": "2024-06-14",
+        "caption": "",
+        "restaurant": null
+      },
+      {
+        "src": "assets/italy-verona-eats-IMG_0639.jpeg",
+        "section": "eats",
+        "date": "2024-06-15",
+        "caption": "",
+        "restaurant": null
+      }
+    ]
+  },
+  {
+    "slug": "portugal-lisbon",
+    "name": "Lisbon",
+    "country": "Portugal",
+    "lat": 39,
+    "lng": -9,
+    "notes": "",
+    "media": [
+      {
+        "src": "assets/portugal-lisbon-IMG_6389.jpeg",
+        "section": "gallery",
+        "date": "2022-06-17",
+        "caption": "",
+        "restaurant": null
+      },
+      {
+        "src": "assets/portugal-lisbon-IMG_6427.jpeg",
+        "section": "gallery",
+        "date": "2022-06-17",
+        "caption": "",
+        "restaurant": null
+      },
+      {
+        "src": "assets/portugal-lisbon-IMG_6432.jpeg",
+        "section": "gallery",
+        "date": "2022-06-17",
+        "caption": "",
+        "restaurant": null
+      },
+      {
+        "src": "assets/portugal-lisbon-IMG_6446.jpeg",
+        "section": "gallery",
+        "date": "2022-06-17",
+        "caption": "",
+        "restaurant": null
+      },
+      {
+        "src": "assets/portugal-lisbon-IMG_6448.jpeg",
+        "section": "gallery",
+        "date": "2022-06-17",
+        "caption": "",
+        "restaurant": null
+      },
+      {
+        "src": "assets/portugal-lisbon-IMG_6474.jpeg",
+        "section": "gallery",
+        "date": "2022-06-17",
+        "caption": "",
+        "restaurant": null
+      },
+      {
+        "src": "assets/portugal-lisbon-IMG_6480.jpeg",
+        "section": "gallery",
+        "date": "2022-06-18",
+        "caption": "",
+        "restaurant": null
+      },
+      {
+        "src": "assets/portugal-lisbon-IMG_6525.jpeg",
+        "section": "gallery",
+        "date": "2022-06-18",
+        "caption": "",
+        "restaurant": null
+      },
+      {
+        "src": "assets/portugal-lisbon-IMG_6554.jpeg",
+        "section": "gallery",
+        "date": "2022-06-18",
+        "caption": "",
+        "restaurant": null
+      },
+      {
+        "src": "assets/portugal-lisbon-IMG_6555.jpeg",
+        "section": "gallery",
+        "date": "2022-06-18",
+        "caption": "",
+        "restaurant": null
+      },
+      {
+        "src": "assets/portugal-lisbon-IMG_6571.jpeg",
+        "section": "gallery",
+        "date": "2022-06-19",
+        "caption": "",
+        "restaurant": null
+      },
+      {
+        "src": "assets/portugal-lisbon-IMG_6588.jpeg",
+        "section": "gallery",
+        "date": "2022-06-19",
+        "caption": "",
+        "restaurant": null
+      },
+      {
+        "src": "assets/portugal-lisbon-IMG_6594.jpeg",
+        "section": "gallery",
+        "date": "2022-06-19",
+        "caption": "",
+        "restaurant": null
+      }
+    ]
+  },
+  {
+    "slug": "portugal-albufeira",
+    "name": "Albufeira",
+    "country": "Portugal",
+    "lat": 37,
+    "lng": -8,
+    "notes": "",
+    "media": [
+      {
+        "src": "assets/portugal-albufeira-IMG_6285.jpeg",
+        "section": "gallery",
+        "date": "2022-06-16",
+        "caption": "",
+        "restaurant": null
+      },
+      {
+        "src": "assets/portugal-albufeira-IMG_6297.jpeg",
+        "section": "gallery",
+        "date": "2022-06-16",
+        "caption": "",
+        "restaurant": null
+      },
+      {
+        "src": "assets/portugal-albufeira-IMG_6299.jpeg",
+        "section": "gallery",
+        "date": "2022-06-16",
+        "caption": "",
+        "restaurant": null
+      },
+      {
+        "src": "assets/portugal-albufeira-IMG_6369.jpeg",
+        "section": "gallery",
+        "date": "2022-06-16",
+        "caption": "",
+        "restaurant": null
+      },
+      {
+        "src": "assets/portugal-albufeira-eats-IMG_6366.jpeg",
+        "section": "eats",
+        "date": "2022-06-16",
+        "caption": "",
+        "restaurant": null
+      }
+    ]
+  },
+  {
+    "slug": "portugal-lagoa",
+    "name": "Lagoa",
+    "country": "Portugal",
+    "lat": 37,
+    "lng": -8,
+    "notes": "",
+    "media": [
+      {
+        "src": "assets/portugal-lagoa-IMG_6315.jpeg",
+        "section": "gallery",
+        "date": "2022-06-16",
+        "caption": "",
+        "restaurant": null
+      },
+      {
+        "src": "assets/portugal-lagoa-IMG_6319.jpeg",
+        "section": "gallery",
+        "date": "2022-06-16",
+        "caption": "",
+        "restaurant": null
+      },
+      {
+        "src": "assets/portugal-lagoa-IMG_6321.jpeg",
+        "section": "gallery",
+        "date": "2022-06-16",
+        "caption": "",
+        "restaurant": null
+      },
+      {
+        "src": "assets/portugal-lagoa-IMG_6327.jpeg",
+        "section": "gallery",
+        "date": "2022-06-16",
+        "caption": "",
+        "restaurant": null
+      },
+      {
+        "src": "assets/portugal-lagoa-IMG_6332.jpeg",
+        "section": "gallery",
+        "date": "2022-06-16",
+        "caption": "",
+        "restaurant": null
+      },
+      {
+        "src": "assets/portugal-lagoa-IMG_6344.jpeg",
+        "section": "gallery",
+        "date": "2022-06-16",
+        "caption": "",
+        "restaurant": null
+      },
+      {
+        "src": "assets/portugal-lagoa-IMG_6347.jpeg",
+        "section": "gallery",
+        "date": "2022-06-16",
+        "caption": "",
+        "restaurant": null
+      },
+      {
+        "src": "assets/portugal-lagoa-IMG_6353.jpeg",
+        "section": "gallery",
+        "date": "2022-06-16",
+        "caption": "",
+        "restaurant": null
+      }
+    ]
+  },
+  {
+    "slug": "turkey-ephesus",
+    "name": "Ephesus",
+    "country": "Turkey",
+    "lat": 38,
+    "lng": 27,
+    "notes": "",
+    "media": [
+      {
+        "src": "assets/turkey-ephesus-IMG_3647.jpeg",
+        "section": "gallery",
+        "date": "2023-07-10",
+        "caption": "",
+        "restaurant": null
+      },
+      {
+        "src": "assets/turkey-ephesus-IMG_3650.jpeg",
+        "section": "gallery",
+        "date": "2023-07-10",
+        "caption": "",
+        "restaurant": null
+      },
+      {
+        "src": "assets/turkey-ephesus-IMG_3655.jpeg",
+        "section": "gallery",
+        "date": "2023-07-10",
+        "caption": "",
+        "restaurant": null
+      }
+    ]
+  },
+  {
+    "slug": "turkey-istanbul",
+    "name": "Istanbul",
+    "country": "Turkey",
+    "lat": 41,
+    "lng": 29,
+    "notes": "",
+    "media": [
+      {
+        "src": "assets/turkey-istanbul-IMG_3688.jpeg",
+        "section": "gallery",
+        "date": "2023-07-12",
+        "caption": "",
+        "restaurant": null
+      },
+      {
+        "src": "assets/turkey-istanbul-IMG_3691.jpeg",
+        "section": "gallery",
+        "date": "2023-07-12",
+        "caption": "",
+        "restaurant": null
+      },
+      {
+        "src": "assets/turkey-istanbul-IMG_3693.jpeg",
+        "section": "gallery",
+        "date": "2023-07-12",
+        "caption": "",
+        "restaurant": null
+      },
+      {
+        "src": "assets/turkey-istanbul-IMG_3697.jpeg",
+        "section": "gallery",
+        "date": "2023-07-12",
+        "caption": "",
+        "restaurant": null
+      },
+      {
+        "src": "assets/turkey-istanbul-IMG_3699.jpeg",
+        "section": "gallery",
+        "date": "2023-07-12",
+        "caption": "",
+        "restaurant": null
+      },
+      {
+        "src": "assets/turkey-istanbul-IMG_3704.jpeg",
+        "section": "gallery",
+        "date": "2023-07-12",
+        "caption": "",
+        "restaurant": null
+      },
+      {
+        "src": "assets/turkey-istanbul-IMG_3771.jpeg",
+        "section": "gallery",
+        "date": "2023-07-14",
+        "caption": "",
+        "restaurant": null
+      },
+      {
+        "src": "assets/turkey-istanbul-IMG_3779.jpeg",
+        "section": "gallery",
+        "date": "2023-07-14",
+        "caption": "",
+        "restaurant": null
+      },
+      {
+        "src": "assets/turkey-istanbul-IMG_3801.jpeg",
+        "section": "gallery",
+        "date": "2023-07-14",
+        "caption": "",
+        "restaurant": null
+      }
+    ]
+  },
+  {
+    "slug": "turkey-kusadasi",
+    "name": "Kusadasi",
+    "country": "Turkey",
+    "lat": 38,
+    "lng": 27,
+    "notes": "",
+    "media": [
+      {
+        "src": "assets/turkey-kusadasi-IMG_3603.jpeg",
+        "section": "gallery",
+        "date": "2023-07-09",
+        "caption": "",
+        "restaurant": null
+      },
+      {
+        "src": "assets/turkey-kusadasi-IMG_3616.jpeg",
+        "section": "gallery",
+        "date": "2023-07-09",
+        "caption": "",
+        "restaurant": null
+      },
+      {
+        "src": "assets/turkey-kusadasi-IMG_3631.jpeg",
+        "section": "gallery",
+        "date": "2023-07-09",
+        "caption": "",
+        "restaurant": null
+      }
+    ]
+  }
+]
