@@ -1421,6 +1421,13 @@
         "date": "2023-08-01",
         "caption": "",
         "restaurant": null
+      },
+      {
+        "src": "assets/switzerland-train.mov",
+        "type": "video",
+        "section": "gallery",
+        "date": "2023-08-01",
+        "caption": "Through the Swiss mountains by train"
       }
     ]
   },
