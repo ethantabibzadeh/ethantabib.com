@@ -2274,5 +2274,298 @@
         "restaurant": null
       }
     ]
+  },
+  {
+    "slug": "hawaii",
+    "name": "Hawaii",
+    "country": "United States",
+    "lat": 21,
+    "lng": -158,
+    "notes": "",
+    "media": [
+      {
+        "src": "assets/hawaii-IMG_1378.jpeg",
+        "section": "gallery",
+        "date": "2021-06-15",
+        "caption": "",
+        "restaurant": null
+      },
+      {
+        "src": "assets/hawaii-IMG_1384.jpeg",
+        "section": "gallery",
+        "date": "2021-06-15",
+        "caption": "",
+        "restaurant": null
+      },
+      {
+        "src": "assets/hawaii-IMG_1423.jpeg",
+        "section": "gallery",
+        "date": "2021-06-16",
+        "caption": "",
+        "restaurant": null
+      },
+      {
+        "src": "assets/hawaii-IMG_1503.jpeg",
+        "section": "gallery",
+        "date": "2021-06-17",
+        "caption": "",
+        "restaurant": null
+      },
+      {
+        "src": "assets/hawaii-IMG_1517.jpeg",
+        "section": "gallery",
+        "date": "2021-06-18",
+        "caption": "",
+        "restaurant": null
+      },
+      {
+        "src": "assets/hawaii-IMG_1536.jpeg",
+        "section": "gallery",
+        "date": "2021-06-18",
+        "caption": "",
+        "restaurant": null
+      },
+      {
+        "src": "assets/hawaii-IMG_1610.jpeg",
+        "section": "gallery",
+        "date": "2021-06-20",
+        "caption": "",
+        "restaurant": null
+      },
+      {
+        "src": "assets/hawaii-IMG_2372.jpeg",
+        "section": "gallery",
+        "date": "2021-06-15",
+        "caption": "",
+        "restaurant": null
+      },
+      {
+        "src": "assets/hawaii-IMG_2411.jpeg",
+        "section": "gallery",
+        "date": "2021-06-19",
+        "caption": "",
+        "restaurant": null
+      },
+      {
+        "src": "assets/hawaii-IMG_2424.jpeg",
+        "section": "gallery",
+        "date": "2021-06-19",
+        "caption": "",
+        "restaurant": null
+      },
+      {
+        "src": "assets/hawaii-IMG_2442.jpeg",
+        "section": "gallery",
+        "date": "2021-06-19",
+        "caption": "",
+        "restaurant": null
+      },
+      {
+        "src": "assets/hawaii-IMG_2463.jpeg",
+        "section": "gallery",
+        "date": "2021-06-20",
+        "caption": "",
+        "restaurant": null
+      },
+      {
+        "src": "assets/hawaii-eats-IMG_1430.jpeg",
+        "section": "eats",
+        "date": "2021-06-16",
+        "caption": "",
+        "restaurant": null
+      },
+      {
+        "src": "assets/hawaii-eats-IMG_1438.jpeg",
+        "section": "eats",
+        "date": "2021-06-16",
+        "caption": "",
+        "restaurant": null
+      }
+    ]
+  },
+  {
+    "slug": "nyc",
+    "name": "New York City",
+    "country": "United States",
+    "lat": 41,
+    "lng": -74,
+    "notes": "",
+    "media": [
+      {
+        "src": "assets/nyc-IMG_2506.jpeg",
+        "section": "gallery",
+        "date": "2026-08-13",
+        "caption": "",
+        "restaurant": null
+      },
+      {
+        "src": "assets/nyc-IMG_2515.jpeg",
+        "section": "gallery",
+        "date": "2026-08-13",
+        "caption": "",
+        "restaurant": null
+      },
+      {
+        "src": "assets/nyc-IMG_2523.jpeg",
+        "section": "gallery",
+        "date": "2026-08-13",
+        "caption": "",
+        "restaurant": null
+      },
+      {
+        "src": "assets/nyc-IMG_2565.jpeg",
+        "section": "gallery",
+        "date": "2026-08-16",
+        "caption": "",
+        "restaurant": null
+      },
+      {
+        "src": "assets/nyc-IMG_2568.jpeg",
+        "section": "gallery",
+        "date": "2026-08-16",
+        "caption": "",
+        "restaurant": null
+      },
+      {
+        "src": "assets/nyc-IMG_2599.jpeg",
+        "section": "gallery",
+        "date": "2026-08-17",
+        "caption": "",
+        "restaurant": null
+      },
+      {
+        "src": "assets/nyc-IMG_2612.jpeg",
+        "section": "gallery",
+        "date": "2026-08-17",
+        "caption": "",
+        "restaurant": null
+      },
+      {
+        "src": "assets/nyc-IMG_2628.jpeg",
+        "section": "gallery",
+        "date": "2026-08-17",
+        "caption": "",
+        "restaurant": null
+      },
+      {
+        "src": "assets/nyc-IMG_3574.jpeg",
+        "section": "gallery",
+        "date": "2026-08-17",
+        "caption": "",
+        "restaurant": null
+      },
+      {
+        "src": "assets/nyc-IMG_4436.jpeg",
+        "section": "gallery",
+        "date": "2025-03-30",
+        "caption": "",
+        "restaurant": null
+      },
+      {
+        "src": "assets/nyc-IMG_4445.jpeg",
+        "section": "gallery",
+        "date": "2025-03-30",
+        "caption": "",
+        "restaurant": null
+      },
+      {
+        "src": "assets/nyc-IMG_4469.jpeg",
+        "section": "gallery",
+        "date": "2025-03-30",
+        "caption": "",
+        "restaurant": null
+      },
+      {
+        "src": "assets/nyc-IMG_4474.jpeg",
+        "section": "gallery",
+        "date": "2025-03-30",
+        "caption": "",
+        "restaurant": null
+      },
+      {
+        "src": "assets/nyc-IMG_4479.jpeg",
+        "section": "gallery",
+        "date": "2025-03-30",
+        "caption": "",
+        "restaurant": null
+      },
+      {
+        "src": "assets/nyc-eats-IMG_2634.jpeg",
+        "section": "eats",
+        "date": "2026-08-17",
+        "caption": "",
+        "restaurant": null
+      },
+      {
+        "src": "assets/nyc-eats-IMG_2641.jpeg",
+        "section": "eats",
+        "date": "2026-08-17",
+        "caption": "",
+        "restaurant": null
+      },
+      {
+        "src": "assets/nyc-eats-IMG_2647.jpeg",
+        "section": "eats",
+        "date": "2026-08-17",
+        "caption": "",
+        "restaurant": null
+      },
+      {
+        "src": "assets/nyc-eats-IMG_2653.jpeg",
+        "section": "eats",
+        "date": "2026-08-17",
+        "caption": "",
+        "restaurant": null
+      },
+      {
+        "src": "assets/nyc-eats-IMG_2661.jpeg",
+        "section": "eats",
+        "date": "2026-08-18",
+        "caption": "",
+        "restaurant": "Los Tacos No. 1"
+      },
+      {
+        "src": "assets/nyc-eats-IMG_2663.jpeg",
+        "section": "eats",
+        "date": "2026-08-18",
+        "caption": "",
+        "restaurant": "Los Tacos No. 1"
+      },
+      {
+        "src": "assets/nyc-eats-IMG_2671.jpeg",
+        "section": "eats",
+        "date": "2026-08-18",
+        "caption": "",
+        "restaurant": "Balam"
+      },
+      {
+        "src": "assets/nyc-eats-IMG_2672.jpeg",
+        "section": "eats",
+        "date": "2026-08-18",
+        "caption": "",
+        "restaurant": "Katz’s Delicatessen"
+      },
+      {
+        "src": "assets/nyc-eats-IMG_2674.jpeg",
+        "section": "eats",
+        "date": "2026-08-18",
+        "caption": "",
+        "restaurant": "Katz’s Delicatessen"
+      },
+      {
+        "src": "assets/nyc-eats-IMG_2676.jpeg",
+        "section": "eats",
+        "date": "2026-08-18",
+        "caption": "",
+        "restaurant": "Katz’s Delicatessen"
+      },
+      {
+        "src": "assets/nyc-eats-IMG_3579.jpeg",
+        "section": "eats",
+        "date": "2026-08-17",
+        "caption": "",
+        "restaurant": null
+      }
+    ]
   }
 ]
