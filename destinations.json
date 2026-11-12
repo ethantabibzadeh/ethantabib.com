@@ -307,121 +307,6 @@
     ]
   },
   {
-    "slug": "cabo",
-    "name": "Cabo",
-    "country": "Mexico",
-    "lat": 23,
-    "lng": -110,
-    "notes": "",
-    "media": [
-      {
-        "src": "assets/cabo-IMG_0388.jpeg",
-        "section": "gallery",
-        "date": "2026-03-22",
-        "caption": "",
-        "restaurant": null
-      },
-      {
-        "src": "assets/cabo-IMG_0462.jpeg",
-        "section": "gallery",
-        "date": "2026-03-24",
-        "caption": "",
-        "restaurant": null
-      },
-      {
-        "src": "assets/cabo-IMG_0464.jpeg",
-        "section": "gallery",
-        "date": "2026-03-24",
-        "caption": "",
-        "restaurant": null
-      },
-      {
-        "src": "assets/cabo-IMG_8030.jpeg",
-        "section": "gallery",
-        "date": "2026-03-24",
-        "caption": "",
-        "restaurant": null
-      },
-      {
-        "src": "assets/cabo-IMG_8034.jpeg",
-        "section": "gallery",
-        "date": "2026-03-24",
-        "caption": "",
-        "restaurant": null
-      },
-      {
-        "src": "assets/cabo-IMG_8036.jpeg",
-        "section": "gallery",
-        "date": "2026-03-24",
-        "caption": "",
-        "restaurant": null
-      },
-      {
-        "src": "assets/cabo-IMG_9837.jpeg",
-        "section": "gallery",
-        "date": "2026-03-22",
-        "caption": "",
-        "restaurant": null
-      },
-      {
-        "src": "assets/cabo-IMG_9865.jpeg",
-        "section": "gallery",
-        "date": "2026-03-23",
-        "caption": "",
-        "restaurant": null
-      },
-      {
-        "src": "assets/cabo-IMG_9872.jpeg",
-        "section": "gallery",
-        "date": "2026-03-23",
-        "caption": "",
-        "restaurant": null
-      },
-      {
-        "src": "assets/cabo-IMG_9894.jpeg",
-        "section": "gallery",
-        "date": "2026-03-24",
-        "caption": "",
-        "restaurant": null
-      },
-      {
-        "src": "assets/cabo-IMG_9908.jpeg",
-        "section": "gallery",
-        "date": "2026-03-24",
-        "caption": "",
-        "restaurant": null
-      },
-      {
-        "src": "assets/cabo-IMG_9924.jpeg",
-        "section": "gallery",
-        "date": "2026-03-24",
-        "caption": "",
-        "restaurant": null
-      },
-      {
-        "src": "assets/cabo-IMG_9970.jpeg",
-        "section": "gallery",
-        "date": "2026-03-24",
-        "caption": "",
-        "restaurant": null
-      },
-      {
-        "src": "assets/cabo-eats-IMG_9927.jpeg",
-        "section": "eats",
-        "date": "2026-03-24",
-        "caption": "",
-        "restaurant": null
-      },
-      {
-        "src": "assets/cabo-eats-IMG_9931.jpeg",
-        "section": "eats",
-        "date": "2026-03-24",
-        "caption": "",
-        "restaurant": null
-      }
-    ]
-  },
-  {
     "slug": "cancun",
     "name": "Cancun",
     "country": "Mexico",
@@ -842,16 +727,16 @@
       },
       {
         "src": "assets/cannes-IMG_4435.jpeg",
-        "section": "gallery",
+        "section": "eats",
         "date": "2023-07-23",
-        "caption": "",
+        "caption": "Lunch with friends on Île Sainte-Marguerite",
         "restaurant": null
       },
       {
         "src": "assets/cannes-IMG_4441.jpeg",
-        "section": "gallery",
+        "section": "eats",
         "date": "2023-07-23",
-        "caption": "",
+        "caption": "Lunch with friends on Île Sainte-Marguerite",
         "restaurant": null
       },
       {
@@ -1091,13 +976,6 @@
         "src": "assets/madrid-IMG_8089.jpeg",
         "section": "gallery",
         "date": "2025-11-23",
-        "caption": "",
-        "restaurant": null
-      },
-      {
-        "src": "assets/madrid-IMG_8105.jpeg",
-        "section": "gallery",
-        "date": "2025-11-24",
         "caption": "",
         "restaurant": null
       },
@@ -3100,6 +2978,595 @@
         "src": "assets/italy-cinque-terre-IMG_4740.jpeg",
         "section": "gallery",
         "date": "2023-07-28",
+        "caption": "",
+        "restaurant": null
+      }
+    ]
+  },
+  {
+    "slug": "los-angeles",
+    "name": "Los Angeles",
+    "country": "United States",
+    "lat": 34,
+    "lng": -118,
+    "notes": "",
+    "media": [
+      {
+        "src": "assets/los-angeles-IMG_1317.jpeg",
+        "section": "gallery",
+        "date": "2024-08-10",
+        "caption": "",
+        "restaurant": null
+      },
+      {
+        "src": "assets/los-angeles-IMG_1770.jpeg",
+        "section": "gallery",
+        "date": "2023-04-20",
+        "caption": "",
+        "restaurant": null
+      },
+      {
+        "src": "assets/los-angeles-IMG_7504.jpeg",
+        "section": "gallery",
+        "date": "2024-01-13",
+        "caption": "",
+        "restaurant": null
+      },
+      {
+        "src": "assets/los-angeles-IMG_7700.jpeg",
+        "section": "gallery",
+        "date": "2023-02-18",
+        "caption": "",
+        "restaurant": null
+      },
+      {
+        "src": "assets/los-angeles-IMG_8207.jpeg",
+        "section": "gallery",
+        "date": "2023-05-13",
+        "caption": "",
+        "restaurant": null
+      },
+      {
+        "src": "assets/los-angeles-eats-IMG_0903.jpeg",
+        "section": "eats",
+        "date": "2026-11-08",
+        "caption": "",
+        "restaurant": null
+      },
+      {
+        "src": "assets/los-angeles-eats-IMG_2788.jpeg",
+        "section": "eats",
+        "date": "2026-08-27",
+        "caption": "",
+        "restaurant": null
+      },
+      {
+        "src": "assets/los-angeles-eats-IMG_3091.jpeg",
+        "section": "eats",
+        "date": "2026-09-09",
+        "caption": "",
+        "restaurant": null
+      },
+      {
+        "src": "assets/los-angeles-eats-IMG_3095.jpeg",
+        "section": "eats",
+        "date": "2026-09-09",
+        "caption": "",
+        "restaurant": null
+      },
+      {
+        "src": "assets/los-angeles-eats-IMG_3096.jpeg",
+        "section": "eats",
+        "date": "2026-09-09",
+        "caption": "",
+        "restaurant": null
+      },
+      {
+        "src": "assets/los-angeles-eats-IMG_3097.jpeg",
+        "section": "eats",
+        "date": "2026-09-09",
+        "caption": "",
+        "restaurant": null
+      },
+      {
+        "src": "assets/los-angeles-eats-IMG_3099.jpeg",
+        "section": "eats",
+        "date": "2026-09-10",
+        "caption": "",
+        "restaurant": null
+      }
+    ]
+  },
+  {
+    "slug": "san-diego",
+    "name": "San Diego",
+    "country": "United States",
+    "lat": 33,
+    "lng": -117,
+    "notes": "",
+    "media": [
+      {
+        "src": "assets/san-diego-IMG_0356.jpeg",
+        "section": "gallery",
+        "date": "2026-09-23",
+        "caption": "",
+        "restaurant": null
+      },
+      {
+        "src": "assets/san-diego-IMG_0471.jpeg",
+        "section": "gallery",
+        "date": "2026-04-26",
+        "caption": "",
+        "restaurant": null
+      },
+      {
+        "src": "assets/san-diego-IMG_3393.jpeg",
+        "section": "gallery",
+        "date": "2025-02-22",
+        "caption": "",
+        "restaurant": null
+      },
+      {
+        "src": "assets/san-diego-IMG_3614.jpeg",
+        "section": "gallery",
+        "date": "2026-10-20",
+        "caption": "",
+        "restaurant": null
+      },
+      {
+        "src": "assets/san-diego-IMG_3624.jpeg",
+        "section": "gallery",
+        "date": "2026-10-20",
+        "caption": "",
+        "restaurant": null
+      },
+      {
+        "src": "assets/san-diego-IMG_4850.jpeg",
+        "section": "gallery",
+        "date": "2026-10-20",
+        "caption": "",
+        "restaurant": null
+      },
+      {
+        "src": "assets/san-diego-IMG_4851.jpeg",
+        "section": "gallery",
+        "date": "2026-10-20",
+        "caption": "",
+        "restaurant": null
+      },
+      {
+        "src": "assets/san-diego-IMG_4870.jpeg",
+        "section": "gallery",
+        "date": "2026-10-20",
+        "caption": "",
+        "restaurant": null
+      },
+      {
+        "src": "assets/san-diego-IMG_5361.jpeg",
+        "section": "gallery",
+        "date": "2025-09-07",
+        "caption": "",
+        "restaurant": null
+      },
+      {
+        "src": "assets/san-diego-IMG_5847.jpeg",
+        "section": "gallery",
+        "date": "2025-05-17",
+        "caption": "",
+        "restaurant": null
+      },
+      {
+        "src": "assets/san-diego-IMG_5855.jpeg",
+        "section": "gallery",
+        "date": "2025-05-17",
+        "caption": "",
+        "restaurant": null
+      },
+      {
+        "src": "assets/san-diego-IMG_7633.jpeg",
+        "section": "gallery",
+        "date": "2026-03-15",
+        "caption": "",
+        "restaurant": null
+      },
+      {
+        "src": "assets/san-diego-IMG_7796.jpeg",
+        "section": "gallery",
+        "date": "2025-11-10",
+        "caption": "",
+        "restaurant": null
+      },
+      {
+        "src": "assets/san-diego-IMG_7843.jpeg",
+        "section": "gallery",
+        "date": "2025-11-10",
+        "caption": "",
+        "restaurant": null
+      },
+      {
+        "src": "assets/san-diego-IMG_8979.jpeg",
+        "section": "gallery",
+        "date": "2026-04-05",
+        "caption": "",
+        "restaurant": null
+      },
+      {
+        "src": "assets/san-diego-eats-IMG_3526.jpeg",
+        "section": "eats",
+        "date": "2026-10-13",
+        "caption": "",
+        "restaurant": null
+      },
+      {
+        "src": "assets/san-diego-eats-IMG_3573.jpeg",
+        "section": "eats",
+        "date": "2026-10-17",
+        "caption": "",
+        "restaurant": null
+      },
+      {
+        "src": "assets/san-diego-eats-IMG_3580.jpeg",
+        "section": "eats",
+        "date": "2026-10-17",
+        "caption": "",
+        "restaurant": null
+      },
+      {
+        "src": "assets/san-diego-eats-IMG_3679.jpeg",
+        "section": "eats",
+        "date": "2026-10-17",
+        "caption": "",
+        "restaurant": null
+      },
+      {
+        "src": "assets/san-diego-eats-IMG_3751.jpeg",
+        "section": "eats",
+        "date": "2026-10-31",
+        "caption": "",
+        "restaurant": null
+      },
+      {
+        "src": "assets/san-diego-eats-IMG_3755.jpeg",
+        "section": "eats",
+        "date": "2026-10-31",
+        "caption": "",
+        "restaurant": null
+      },
+      {
+        "src": "assets/san-diego-eats-IMG_3780.jpeg",
+        "section": "eats",
+        "date": "2026-11-01",
+        "caption": "",
+        "restaurant": null
+      }
+    ]
+  },
+  {
+    "slug": "belgium-brussels",
+    "name": "Brussels",
+    "country": "Belgium",
+    "lat": 51,
+    "lng": 4,
+    "notes": "",
+    "media": [
+      {
+        "src": "assets/belgium-brussels-IMG_1597.jpeg",
+        "section": "gallery",
+        "date": "2024-08-21",
+        "caption": "",
+        "restaurant": null
+      },
+      {
+        "src": "assets/belgium-brussels-IMG_1609.jpeg",
+        "section": "gallery",
+        "date": "2024-08-21",
+        "caption": "",
+        "restaurant": null
+      },
+      {
+        "src": "assets/belgium-brussels-IMG_1613.jpeg",
+        "section": "gallery",
+        "date": "2024-08-21",
+        "caption": "",
+        "restaurant": null
+      },
+      {
+        "src": "assets/belgium-brussels-IMG_1639.jpeg",
+        "section": "gallery",
+        "date": "2024-08-23",
+        "caption": "",
+        "restaurant": null
+      },
+      {
+        "src": "assets/belgium-brussels-IMG_1641.jpeg",
+        "section": "gallery",
+        "date": "2024-08-23",
+        "caption": "",
+        "restaurant": null
+      },
+      {
+        "src": "assets/belgium-brussels-IMG_1643.jpeg",
+        "section": "gallery",
+        "date": "2024-08-23",
+        "caption": "",
+        "restaurant": null
+      },
+      {
+        "src": "assets/belgium-brussels-IMG_1646.jpeg",
+        "section": "gallery",
+        "date": "2024-08-23",
+        "caption": "",
+        "restaurant": null
+      },
+      {
+        "src": "assets/belgium-brussels-IMG_1648.jpeg",
+        "section": "gallery",
+        "date": "2024-08-23",
+        "caption": "",
+        "restaurant": null
+      },
+      {
+        "src": "assets/belgium-brussels-IMG_1662.jpeg",
+        "section": "gallery",
+        "date": "2024-08-23",
+        "caption": "",
+        "restaurant": null
+      },
+      {
+        "src": "assets/belgium-brussels-IMG_1668.jpeg",
+        "section": "gallery",
+        "date": "2024-08-23",
+        "caption": "",
+        "restaurant": null
+      },
+      {
+        "src": "assets/belgium-brussels-IMG_1683.jpeg",
+        "section": "gallery",
+        "date": "2024-08-23",
+        "caption": "",
+        "restaurant": null
+      },
+      {
+        "src": "assets/belgium-brussels-IMG_1691.jpeg",
+        "section": "gallery",
+        "date": "2024-08-23",
+        "caption": "",
+        "restaurant": null
+      }
+    ]
+  },
+  {
+    "slug": "belgium-bruges",
+    "name": "Bruges",
+    "country": "Belgium",
+    "lat": 51,
+    "lng": 3,
+    "notes": "",
+    "media": [
+      {
+        "src": "assets/belgium-bruges-IMG_1621.jpeg",
+        "section": "gallery",
+        "date": "2024-08-22",
+        "caption": "",
+        "restaurant": null
+      },
+      {
+        "src": "assets/belgium-bruges-IMG_1623.jpeg",
+        "section": "gallery",
+        "date": "2024-08-22",
+        "caption": "",
+        "restaurant": null
+      },
+      {
+        "src": "assets/belgium-bruges-IMG_1625.jpeg",
+        "section": "gallery",
+        "date": "2024-08-22",
+        "caption": "",
+        "restaurant": null
+      },
+      {
+        "src": "assets/belgium-bruges-IMG_1628.jpeg",
+        "section": "gallery",
+        "date": "2024-08-22",
+        "caption": "",
+        "restaurant": null
+      },
+      {
+        "src": "assets/belgium-bruges-IMG_1630.jpeg",
+        "section": "gallery",
+        "date": "2024-08-22",
+        "caption": "",
+        "restaurant": null
+      },
+      {
+        "src": "assets/belgium-bruges-IMG_1631.jpeg",
+        "section": "gallery",
+        "date": "2024-08-22",
+        "caption": "",
+        "restaurant": null
+      },
+      {
+        "src": "assets/belgium-bruges-eats-IMG_0190.jpeg",
+        "section": "eats",
+        "date": "2024-08-22",
+        "caption": "",
+        "restaurant": null
+      },
+      {
+        "src": "assets/belgium-bruges-eats-IMG_0193.jpeg",
+        "section": "eats",
+        "date": "2024-08-22",
+        "caption": "",
+        "restaurant": null
+      },
+      {
+        "src": "assets/belgium-bruges-eats-IMG_1626.jpeg",
+        "section": "eats",
+        "date": "2024-08-22",
+        "caption": "",
+        "restaurant": null
+      },
+      {
+        "src": "assets/belgium-bruges-eats-IMG_1627.jpeg",
+        "section": "eats",
+        "date": "2024-08-22",
+        "caption": "",
+        "restaurant": null
+      }
+    ]
+  },
+  {
+    "slug": "cabo",
+    "name": "Cabo",
+    "country": "Mexico",
+    "lat": 23,
+    "lng": -110,
+    "notes": "",
+    "media": [
+      {
+        "src": "assets/cabo-IMG_0388.jpeg",
+        "section": "gallery",
+        "date": "2026-03-22",
+        "caption": "",
+        "restaurant": null
+      },
+      {
+        "src": "assets/cabo-IMG_0462.jpeg",
+        "section": "gallery",
+        "date": "2026-03-24",
+        "caption": "",
+        "restaurant": null
+      },
+      {
+        "src": "assets/cabo-IMG_0464.jpeg",
+        "section": "gallery",
+        "date": "2026-03-24",
+        "caption": "",
+        "restaurant": null
+      },
+      {
+        "src": "assets/cabo-IMG_0960.jpeg",
+        "section": "gallery",
+        "date": "2024-06-29",
+        "caption": "",
+        "restaurant": null
+      },
+      {
+        "src": "assets/cabo-IMG_0973.jpeg",
+        "section": "gallery",
+        "date": "2024-06-30",
+        "caption": "",
+        "restaurant": null
+      },
+      {
+        "src": "assets/cabo-IMG_0983.jpeg",
+        "section": "gallery",
+        "date": "2024-06-30",
+        "caption": "",
+        "restaurant": null
+      },
+      {
+        "src": "assets/cabo-IMG_0999.jpeg",
+        "section": "gallery",
+        "date": "2024-06-30",
+        "caption": "",
+        "restaurant": null
+      },
+      {
+        "src": "assets/cabo-IMG_1019.jpeg",
+        "section": "gallery",
+        "date": "2024-06-30",
+        "caption": "",
+        "restaurant": null
+      },
+      {
+        "src": "assets/cabo-IMG_8030.jpeg",
+        "section": "gallery",
+        "date": "2026-03-24",
+        "caption": "",
+        "restaurant": null
+      },
+      {
+        "src": "assets/cabo-IMG_8034.jpeg",
+        "section": "gallery",
+        "date": "2026-03-24",
+        "caption": "",
+        "restaurant": null
+      },
+      {
+        "src": "assets/cabo-IMG_8036.jpeg",
+        "section": "gallery",
+        "date": "2026-03-24",
+        "caption": "",
+        "restaurant": null
+      },
+      {
+        "src": "assets/cabo-IMG_9837.jpeg",
+        "section": "gallery",
+        "date": "2026-03-22",
+        "caption": "",
+        "restaurant": null
+      },
+      {
+        "src": "assets/cabo-IMG_9865.jpeg",
+        "section": "gallery",
+        "date": "2026-03-23",
+        "caption": "",
+        "restaurant": null
+      },
+      {
+        "src": "assets/cabo-IMG_9872.jpeg",
+        "section": "gallery",
+        "date": "2026-03-23",
+        "caption": "",
+        "restaurant": null
+      },
+      {
+        "src": "assets/cabo-IMG_9894.jpeg",
+        "section": "gallery",
+        "date": "2026-03-24",
+        "caption": "",
+        "restaurant": null
+      },
+      {
+        "src": "assets/cabo-IMG_9908.jpeg",
+        "section": "gallery",
+        "date": "2026-03-24",
+        "caption": "",
+        "restaurant": null
+      },
+      {
+        "src": "assets/cabo-IMG_9924.jpeg",
+        "section": "gallery",
+        "date": "2026-03-24",
+        "caption": "",
+        "restaurant": null
+      },
+      {
+        "src": "assets/cabo-IMG_9970.jpeg",
+        "section": "gallery",
+        "date": "2026-03-24",
+        "caption": "",
+        "restaurant": null
+      },
+      {
+        "src": "assets/cabo-eats-IMG_0941.jpeg",
+        "section": "eats",
+        "date": "2024-06-29",
+        "caption": "Dinner in San José del Cabo",
+        "restaurant": "La Lupita Taco & Mezcal"
+      },
+      {
+        "src": "assets/cabo-eats-IMG_9927.jpeg",
+        "section": "eats",
+        "date": "2026-03-24",
+        "caption": "",
+        "restaurant": null
+      },
+      {
+        "src": "assets/cabo-eats-IMG_9931.jpeg",
+        "section": "eats",
+        "date": "2026-03-24",
         "caption": "",
         "restaurant": null
       }
