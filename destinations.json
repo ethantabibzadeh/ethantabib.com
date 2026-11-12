@@ -707,6 +707,55 @@
         "date": "2022-06-23",
         "caption": "",
         "restaurant": null
+      },
+      {
+        "src": "assets/barcelona-eats-IMG_6624.jpeg",
+        "section": "eats",
+        "date": "2022-06-20",
+        "caption": "",
+        "restaurant": null
+      },
+      {
+        "src": "assets/barcelona-eats-IMG_6625.jpeg",
+        "section": "eats",
+        "date": "2022-06-20",
+        "caption": "",
+        "restaurant": null
+      },
+      {
+        "src": "assets/barcelona-eats-IMG_6626.jpeg",
+        "section": "eats",
+        "date": "2022-06-20",
+        "caption": "",
+        "restaurant": null
+      },
+      {
+        "src": "assets/barcelona-eats-IMG_6629.jpeg",
+        "section": "eats",
+        "date": "2022-06-21",
+        "caption": "",
+        "restaurant": null
+      },
+      {
+        "src": "assets/barcelona-eats-IMG_6631.jpeg",
+        "section": "eats",
+        "date": "2022-06-21",
+        "caption": "",
+        "restaurant": null
+      },
+      {
+        "src": "assets/barcelona-eats-IMG_6735.jpeg",
+        "section": "eats",
+        "date": "2022-06-22",
+        "caption": "",
+        "restaurant": null
+      },
+      {
+        "src": "assets/barcelona-eats-IMG_9369.jpeg",
+        "section": "eats",
+        "date": "2022-06-23",
+        "caption": "",
+        "restaurant": null
       }
     ]
   },
@@ -759,6 +808,21 @@
         "date": "2023-07-24",
         "caption": "",
         "restaurant": null
+      },
+      {
+        "src": "assets/cannes-eats-IMG_4501.jpeg",
+        "section": "eats",
+        "date": "2023-07-25",
+        "caption": "",
+        "restaurant": null
+      },
+      {
+        "src": "assets/cannes-dining.mov",
+        "section": "eats",
+        "date": "2023-07-24",
+        "caption": "Around the table in Cannes",
+        "restaurant": null,
+        "type": "video"
       }
     ]
   },
@@ -919,6 +983,27 @@
         "date": "2023-07-18",
         "caption": "",
         "restaurant": "Borough Market"
+      },
+      {
+        "src": "assets/london-eats-IMG_3948.jpeg",
+        "section": "eats",
+        "date": "2023-07-18",
+        "caption": "",
+        "restaurant": null
+      },
+      {
+        "src": "assets/london-eats-IMG_3982.jpeg",
+        "section": "eats",
+        "date": "2023-07-19",
+        "caption": "",
+        "restaurant": null
+      },
+      {
+        "src": "assets/london-eats-IMG_3983.jpeg",
+        "section": "eats",
+        "date": "2023-07-19",
+        "caption": "",
+        "restaurant": null
       }
     ]
   },
@@ -1226,6 +1311,41 @@
         "date": "2023-07-20",
         "caption": "",
         "restaurant": null
+      },
+      {
+        "src": "assets/paris-eats-IMG_4049.jpeg",
+        "section": "eats",
+        "date": "2023-07-20",
+        "caption": "",
+        "restaurant": null
+      },
+      {
+        "src": "assets/paris-eats-IMG_4055.jpeg",
+        "section": "eats",
+        "date": "2023-07-20",
+        "caption": "",
+        "restaurant": null
+      },
+      {
+        "src": "assets/paris-eats-IMG_4216.jpeg",
+        "section": "eats",
+        "date": "2023-07-21",
+        "caption": "",
+        "restaurant": null
+      },
+      {
+        "src": "assets/paris-eats-IMG_4353.jpeg",
+        "section": "eats",
+        "date": "2023-07-22",
+        "caption": "",
+        "restaurant": null
+      },
+      {
+        "src": "assets/paris-eats-IMG_4354.jpeg",
+        "section": "eats",
+        "date": "2023-07-22",
+        "caption": "",
+        "restaurant": null
       }
     ]
   },
@@ -1494,6 +1614,34 @@
         "date": "2019-07-12",
         "caption": "",
         "restaurant": null
+      },
+      {
+        "src": "assets/italy-florence-eats-IMG_4780.jpeg",
+        "section": "eats",
+        "date": "2023-07-28",
+        "caption": "",
+        "restaurant": null
+      },
+      {
+        "src": "assets/italy-florence-eats-IMG_4781.jpeg",
+        "section": "eats",
+        "date": "2023-07-28",
+        "caption": "",
+        "restaurant": null
+      },
+      {
+        "src": "assets/italy-florence-eats-IMG_4818.jpeg",
+        "section": "eats",
+        "date": "2023-07-30",
+        "caption": "",
+        "restaurant": null
+      },
+      {
+        "src": "assets/italy-florence-eats-IMG_4886.jpeg",
+        "section": "eats",
+        "date": "2023-07-30",
+        "caption": "",
+        "restaurant": null
       }
     ]
   },
@@ -1633,6 +1781,13 @@
         "date": "2019-07-09",
         "caption": "",
         "restaurant": null
+      },
+      {
+        "src": "assets/italy-rome-eats-IMG_4804.jpeg",
+        "section": "eats",
+        "date": "2023-07-29",
+        "caption": "",
+        "restaurant": null
       }
     ]
   },
@@ -1699,6 +1854,48 @@
       {
         "src": "assets/italy-venice-IMG_4893.jpeg",
         "section": "gallery",
+        "date": "2023-07-31",
+        "caption": "",
+        "restaurant": null
+      },
+      {
+        "src": "assets/italy-venice-eats-IMG_4895.jpeg",
+        "section": "eats",
+        "date": "2023-07-31",
+        "caption": "",
+        "restaurant": null
+      },
+      {
+        "src": "assets/italy-venice-eats-IMG_4899.jpeg",
+        "section": "eats",
+        "date": "2023-07-31",
+        "caption": "",
+        "restaurant": null
+      },
+      {
+        "src": "assets/italy-venice-eats-IMG_4901.jpeg",
+        "section": "eats",
+        "date": "2023-07-31",
+        "caption": "",
+        "restaurant": null
+      },
+      {
+        "src": "assets/italy-venice-eats-IMG_4905.jpeg",
+        "section": "eats",
+        "date": "2023-07-31",
+        "caption": "",
+        "restaurant": null
+      },
+      {
+        "src": "assets/italy-venice-eats-IMG_4906.jpeg",
+        "section": "eats",
+        "date": "2023-07-31",
+        "caption": "",
+        "restaurant": null
+      },
+      {
+        "src": "assets/italy-venice-eats-IMG_4908.jpeg",
+        "section": "eats",
         "date": "2023-07-31",
         "caption": "",
         "restaurant": null
@@ -1902,6 +2099,34 @@
         "src": "assets/portugal-lisbon-IMG_6594.jpeg",
         "section": "gallery",
         "date": "2022-06-19",
+        "caption": "",
+        "restaurant": null
+      },
+      {
+        "src": "assets/portugal-lisbon-eats-IMG_6384.jpeg",
+        "section": "eats",
+        "date": "2022-06-17",
+        "caption": "",
+        "restaurant": null
+      },
+      {
+        "src": "assets/portugal-lisbon-eats-IMG_6385.jpeg",
+        "section": "eats",
+        "date": "2022-06-17",
+        "caption": "",
+        "restaurant": null
+      },
+      {
+        "src": "assets/portugal-lisbon-eats-IMG_6477.jpeg",
+        "section": "eats",
+        "date": "2022-06-17",
+        "caption": "",
+        "restaurant": null
+      },
+      {
+        "src": "assets/portugal-lisbon-eats-IMG_6563.jpeg",
+        "section": "eats",
+        "date": "2022-06-18",
         "caption": "",
         "restaurant": null
       }
@@ -2116,6 +2341,20 @@
       {
         "src": "assets/turkey-istanbul-IMG_3801.jpeg",
         "section": "gallery",
+        "date": "2023-07-14",
+        "caption": "",
+        "restaurant": null
+      },
+      {
+        "src": "assets/turkey-istanbul-eats-IMG_3825.jpeg",
+        "section": "eats",
+        "date": "2023-07-14",
+        "caption": "",
+        "restaurant": null
+      },
+      {
+        "src": "assets/turkey-istanbul-eats-IMG_3829.jpeg",
+        "section": "eats",
         "date": "2023-07-14",
         "caption": "",
         "restaurant": null
@@ -2978,6 +3217,13 @@
         "src": "assets/italy-cinque-terre-IMG_4740.jpeg",
         "section": "gallery",
         "date": "2023-07-28",
+        "caption": "",
+        "restaurant": null
+      },
+      {
+        "src": "assets/italy-cinque-terre-eats-IMG_4661.jpeg",
+        "section": "eats",
+        "date": "2023-07-27",
         "caption": "",
         "restaurant": null
       }
