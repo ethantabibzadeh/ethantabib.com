@@ -9,7 +9,8 @@ if(window.L){
  const points=destinations.filter(d=>Number.isFinite(d.lat)&&Number.isFinite(d.lng));
  const bounds=L.latLngBounds(points.map(d=>[d.lat,d.lng]));
  const showAll=()=>map.fitBounds(bounds,{padding:[45,45],maxZoom:5});
- for(const d of points){const label=document.createElement('a');label.href=journalUrl(d);label.className='map-journal-link';label.textContent=d.name+' · Open journal ↗';L.circleMarker([d.lat,d.lng],{radius:8,color:'#182521',weight:2,fillColor:'#f56637',fillOpacity:1}).addTo(map).bindTooltip(d.name).bindPopup(label);}
+ const groups=new Map(); for(const d of points){const key=d.lat+','+d.lng;if(!groups.has(key))groups.set(key,[]);groups.get(key).push(d);}
+ for(const group of groups.values()){const popup=document.createElement('div');for(const d of group){const label=document.createElement('a');label.href=journalUrl(d);label.className='map-journal-link';label.style.display='block';label.style.margin='8px 0';label.textContent=d.name+' · Open journal ↗';popup.append(label);}L.circleMarker([group[0].lat,group[0].lng],{radius:group.length>1?11:8,color:'#182521',weight:2,fillColor:'#f56637',fillOpacity:1}).addTo(map).bindTooltip(group.map(d=>d.name).join(' · ')).bindPopup(popup);}
  showAll();const reset=document.querySelector('#resetMap');reset.hidden=false;reset.onclick=showAll;
  new ResizeObserver(()=>map.invalidateSize()).observe(surface);
 }else{surface.className='map-unavailable';surface.textContent='The map could not load. Explore every destination using the links below.';}

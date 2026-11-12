@@ -2567,5 +2567,542 @@
         "restaurant": null
       }
     ]
+  },
+  {
+    "slug": "chicago",
+    "name": "Chicago",
+    "country": "United States",
+    "lat": 42,
+    "lng": -88,
+    "notes": "",
+    "media": [
+      {
+        "src": "assets/chicago-IMG_3169.jpeg",
+        "section": "gallery",
+        "date": "2026-09-17",
+        "caption": "",
+        "restaurant": null
+      },
+      {
+        "src": "assets/chicago-IMG_3184.jpeg",
+        "section": "gallery",
+        "date": "2026-09-17",
+        "caption": "",
+        "restaurant": null
+      },
+      {
+        "src": "assets/chicago-IMG_3193.jpeg",
+        "section": "gallery",
+        "date": "2026-09-17",
+        "caption": "",
+        "restaurant": null
+      },
+      {
+        "src": "assets/chicago-IMG_3198.jpeg",
+        "section": "gallery",
+        "date": "2026-09-17",
+        "caption": "",
+        "restaurant": null
+      },
+      {
+        "src": "assets/chicago-IMG_3204.jpeg",
+        "section": "gallery",
+        "date": "2026-09-17",
+        "caption": "",
+        "restaurant": null
+      },
+      {
+        "src": "assets/chicago-IMG_3205.jpeg",
+        "section": "gallery",
+        "date": "2026-09-17",
+        "caption": "",
+        "restaurant": null
+      },
+      {
+        "src": "assets/chicago-IMG_5517.jpeg",
+        "section": "gallery",
+        "date": "2026-09-17",
+        "caption": "",
+        "restaurant": null
+      },
+      {
+        "src": "assets/chicago-eats-IMG_3172.jpeg",
+        "section": "eats",
+        "date": "2026-09-17",
+        "caption": "",
+        "restaurant": null
+      },
+      {
+        "src": "assets/chicago-eats-IMG_3177.jpeg",
+        "section": "eats",
+        "date": "2026-09-17",
+        "caption": "",
+        "restaurant": null
+      },
+      {
+        "src": "assets/chicago-eats-IMG_3181.jpeg",
+        "section": "eats",
+        "date": "2026-09-17",
+        "caption": "",
+        "restaurant": null
+      }
+    ]
+  },
+  {
+    "slug": "north-carolina",
+    "name": "North Carolina",
+    "country": "United States",
+    "lat": 36,
+    "lng": -79,
+    "notes": "",
+    "media": [
+      {
+        "src": "assets/north-carolina-IMG_1807.jpeg",
+        "section": "gallery",
+        "date": "2024-09-06",
+        "caption": "",
+        "restaurant": null
+      },
+      {
+        "src": "assets/north-carolina-IMG_1812.jpeg",
+        "section": "gallery",
+        "date": "2024-09-06",
+        "caption": "",
+        "restaurant": null
+      },
+      {
+        "src": "assets/north-carolina-IMG_3143.jpeg",
+        "section": "gallery",
+        "date": "2026-09-15",
+        "caption": "",
+        "restaurant": null
+      },
+      {
+        "src": "assets/north-carolina-IMG_3147.jpeg",
+        "section": "gallery",
+        "date": "2026-09-15",
+        "caption": "",
+        "restaurant": null
+      },
+      {
+        "src": "assets/north-carolina-IMG_3155.jpeg",
+        "section": "gallery",
+        "date": "2026-09-15",
+        "caption": "",
+        "restaurant": null
+      },
+      {
+        "src": "assets/north-carolina-IMG_3163.jpeg",
+        "section": "gallery",
+        "date": "2026-09-17",
+        "caption": "",
+        "restaurant": null
+      },
+      {
+        "src": "assets/north-carolina-IMG_5536.jpeg",
+        "section": "gallery",
+        "date": "2023-09-08",
+        "caption": "",
+        "restaurant": null
+      },
+      {
+        "src": "assets/north-carolina-IMG_5541.jpeg",
+        "section": "gallery",
+        "date": "2023-09-10",
+        "caption": "",
+        "restaurant": null
+      },
+      {
+        "src": "assets/north-carolina-eats-IMG_3140.jpeg",
+        "section": "eats",
+        "date": "2026-09-13",
+        "caption": "",
+        "restaurant": null
+      },
+      {
+        "src": "assets/north-carolina-eats-IMG_3141.jpeg",
+        "section": "eats",
+        "date": "2026-09-13",
+        "caption": "",
+        "restaurant": null
+      },
+      {
+        "src": "assets/north-carolina-eats-IMG_3148.jpeg",
+        "section": "eats",
+        "date": "2026-09-15",
+        "caption": "",
+        "restaurant": null
+      },
+      {
+        "src": "assets/north-carolina-golf.mov",
+        "type": "video",
+        "section": "gallery",
+        "date": "2024-09-06",
+        "caption": "On the green at Washington Duke Inn & Golf Club"
+      }
+    ]
+  },
+  {
+    "slug": "washington-dc",
+    "name": "Washington, DC",
+    "country": "United States",
+    "lat": 39,
+    "lng": -77,
+    "notes": "",
+    "media": [
+      {
+        "src": "assets/washington-dc-IMG_2244.jpeg",
+        "section": "gallery",
+        "date": "2026-08-02",
+        "caption": "",
+        "restaurant": null
+      },
+      {
+        "src": "assets/washington-dc-IMG_2249.jpeg",
+        "section": "gallery",
+        "date": "2026-08-02",
+        "caption": "",
+        "restaurant": null
+      },
+      {
+        "src": "assets/washington-dc-IMG_2271.jpeg",
+        "section": "gallery",
+        "date": "2026-08-02",
+        "caption": "",
+        "restaurant": null
+      },
+      {
+        "src": "assets/washington-dc-IMG_2274.jpeg",
+        "section": "gallery",
+        "date": "2026-08-02",
+        "caption": "",
+        "restaurant": null
+      },
+      {
+        "src": "assets/washington-dc-IMG_2283.jpeg",
+        "section": "gallery",
+        "date": "2026-08-02",
+        "caption": "",
+        "restaurant": null
+      },
+      {
+        "src": "assets/washington-dc-IMG_2291.jpeg",
+        "section": "gallery",
+        "date": "2026-08-02",
+        "caption": "",
+        "restaurant": null
+      },
+      {
+        "src": "assets/washington-dc-IMG_2293.jpeg",
+        "section": "gallery",
+        "date": "2026-08-02",
+        "caption": "",
+        "restaurant": null
+      },
+      {
+        "src": "assets/washington-dc-IMG_2301.jpeg",
+        "section": "gallery",
+        "date": "2026-08-03",
+        "caption": "",
+        "restaurant": null
+      },
+      {
+        "src": "assets/washington-dc-IMG_2305.jpeg",
+        "section": "gallery",
+        "date": "2026-08-03",
+        "caption": "",
+        "restaurant": null
+      },
+      {
+        "src": "assets/washington-dc-IMG_2315.jpeg",
+        "section": "gallery",
+        "date": "2026-08-03",
+        "caption": "",
+        "restaurant": null
+      },
+      {
+        "src": "assets/washington-dc-IMG_2334.jpeg",
+        "section": "gallery",
+        "date": "2026-08-03",
+        "caption": "",
+        "restaurant": null
+      },
+      {
+        "src": "assets/washington-dc-IMG_2336.jpeg",
+        "section": "gallery",
+        "date": "2026-08-03",
+        "caption": "",
+        "restaurant": null
+      },
+      {
+        "src": "assets/washington-dc-IMG_2339.jpeg",
+        "section": "gallery",
+        "date": "2026-08-03",
+        "caption": "",
+        "restaurant": null
+      },
+      {
+        "src": "assets/washington-dc-IMG_2341.jpeg",
+        "section": "gallery",
+        "date": "2026-08-03",
+        "caption": "",
+        "restaurant": null
+      },
+      {
+        "src": "assets/washington-dc-IMG_2347.jpeg",
+        "section": "gallery",
+        "date": "2026-08-03",
+        "caption": "",
+        "restaurant": null
+      },
+      {
+        "src": "assets/washington-dc-IMG_2352.jpeg",
+        "section": "gallery",
+        "date": "2026-08-03",
+        "caption": "",
+        "restaurant": null
+      },
+      {
+        "src": "assets/washington-dc-IMG_2370.jpeg",
+        "section": "gallery",
+        "date": "2026-08-04",
+        "caption": "",
+        "restaurant": null
+      },
+      {
+        "src": "assets/washington-dc-IMG_2371.jpeg",
+        "section": "gallery",
+        "date": "2026-08-04",
+        "caption": "",
+        "restaurant": null
+      },
+      {
+        "src": "assets/washington-dc-IMG_2375.jpeg",
+        "section": "gallery",
+        "date": "2026-08-04",
+        "caption": "",
+        "restaurant": null
+      },
+      {
+        "src": "assets/washington-dc-IMG_2378.jpeg",
+        "section": "gallery",
+        "date": "2026-08-04",
+        "caption": "",
+        "restaurant": null
+      },
+      {
+        "src": "assets/washington-dc-eats-IMG_2221.jpeg",
+        "section": "eats",
+        "date": "2026-08-02",
+        "caption": "",
+        "restaurant": null
+      },
+      {
+        "src": "assets/washington-dc-eats-IMG_2224.jpeg",
+        "section": "eats",
+        "date": "2026-08-02",
+        "caption": "",
+        "restaurant": null
+      },
+      {
+        "src": "assets/washington-dc-eats-IMG_2226.jpeg",
+        "section": "eats",
+        "date": "2026-08-02",
+        "caption": "",
+        "restaurant": null
+      },
+      {
+        "src": "assets/washington-dc-eats-IMG_2230.jpeg",
+        "section": "eats",
+        "date": "2026-08-02",
+        "caption": "",
+        "restaurant": null
+      },
+      {
+        "src": "assets/washington-dc-eats-IMG_2241.jpeg",
+        "section": "eats",
+        "date": "2026-08-02",
+        "caption": "",
+        "restaurant": null
+      },
+      {
+        "src": "assets/washington-dc-eats-IMG_4879.jpeg",
+        "section": "eats",
+        "date": "2026-08-02",
+        "caption": "",
+        "restaurant": null
+      },
+      {
+        "src": "assets/washington-dc-eats-IMG_4881.jpeg",
+        "section": "eats",
+        "date": "2026-08-02",
+        "caption": "",
+        "restaurant": null
+      },
+      {
+        "src": "assets/washington-dc-eats-IMG_4886.jpeg",
+        "section": "eats",
+        "date": "2026-08-02",
+        "caption": "",
+        "restaurant": null
+      }
+    ]
+  },
+  {
+    "slug": "italy-cinque-terre",
+    "name": "Cinque Terre",
+    "country": "Italy",
+    "lat": 44,
+    "lng": 10,
+    "notes": "",
+    "media": [
+      {
+        "src": "assets/italy-cinque-terre-IMG_3725.jpeg",
+        "section": "gallery",
+        "date": "2023-07-26",
+        "caption": "",
+        "restaurant": null
+      },
+      {
+        "src": "assets/italy-cinque-terre-IMG_4517.jpeg",
+        "section": "gallery",
+        "date": "2023-07-25",
+        "caption": "",
+        "restaurant": null
+      },
+      {
+        "src": "assets/italy-cinque-terre-IMG_4526.jpeg",
+        "section": "gallery",
+        "date": "2023-07-25",
+        "caption": "",
+        "restaurant": null
+      },
+      {
+        "src": "assets/italy-cinque-terre-IMG_4530.jpeg",
+        "section": "gallery",
+        "date": "2023-07-25",
+        "caption": "",
+        "restaurant": null
+      },
+      {
+        "src": "assets/italy-cinque-terre-IMG_4562.jpeg",
+        "section": "gallery",
+        "date": "2023-07-25",
+        "caption": "",
+        "restaurant": null
+      },
+      {
+        "src": "assets/italy-cinque-terre-IMG_4567.jpeg",
+        "section": "gallery",
+        "date": "2023-07-25",
+        "caption": "",
+        "restaurant": null
+      },
+      {
+        "src": "assets/italy-cinque-terre-IMG_4573.jpeg",
+        "section": "gallery",
+        "date": "2023-07-25",
+        "caption": "",
+        "restaurant": null
+      },
+      {
+        "src": "assets/italy-cinque-terre-IMG_4575.jpeg",
+        "section": "gallery",
+        "date": "2023-07-25",
+        "caption": "",
+        "restaurant": null
+      },
+      {
+        "src": "assets/italy-cinque-terre-IMG_4587.jpeg",
+        "section": "gallery",
+        "date": "2023-07-26",
+        "caption": "",
+        "restaurant": null
+      },
+      {
+        "src": "assets/italy-cinque-terre-IMG_4588.jpeg",
+        "section": "gallery",
+        "date": "2023-07-26",
+        "caption": "",
+        "restaurant": null
+      },
+      {
+        "src": "assets/italy-cinque-terre-IMG_4591.jpeg",
+        "section": "gallery",
+        "date": "2023-07-26",
+        "caption": "",
+        "restaurant": null
+      },
+      {
+        "src": "assets/italy-cinque-terre-IMG_4593.jpeg",
+        "section": "gallery",
+        "date": "2023-07-26",
+        "caption": "",
+        "restaurant": null
+      },
+      {
+        "src": "assets/italy-cinque-terre-IMG_4596.jpeg",
+        "section": "gallery",
+        "date": "2023-07-26",
+        "caption": "",
+        "restaurant": null
+      },
+      {
+        "src": "assets/italy-cinque-terre-IMG_4599.jpeg",
+        "section": "gallery",
+        "date": "2023-07-26",
+        "caption": "",
+        "restaurant": null
+      },
+      {
+        "src": "assets/italy-cinque-terre-IMG_4602.jpeg",
+        "section": "gallery",
+        "date": "2023-07-26",
+        "caption": "",
+        "restaurant": null
+      },
+      {
+        "src": "assets/italy-cinque-terre-IMG_4630.jpeg",
+        "section": "gallery",
+        "date": "2023-07-26",
+        "caption": "",
+        "restaurant": null
+      },
+      {
+        "src": "assets/italy-cinque-terre-IMG_4644.jpeg",
+        "section": "gallery",
+        "date": "2023-07-26",
+        "caption": "",
+        "restaurant": null
+      },
+      {
+        "src": "assets/italy-cinque-terre-IMG_4648.jpeg",
+        "section": "gallery",
+        "date": "2023-07-26",
+        "caption": "",
+        "restaurant": null
+      },
+      {
+        "src": "assets/italy-cinque-terre-IMG_4656.jpeg",
+        "section": "gallery",
+        "date": "2023-07-26",
+        "caption": "",
+        "restaurant": null
+      },
+      {
+        "src": "assets/italy-cinque-terre-IMG_4738.jpeg",
+        "section": "gallery",
+        "date": "2023-07-27",
+        "caption": "",
+        "restaurant": null
+      },
+      {
+        "src": "assets/italy-cinque-terre-IMG_4740.jpeg",
+        "section": "gallery",
+        "date": "2023-07-28",
+        "caption": "",
+        "restaurant": null
+      }
+    ]
   }
 ]
