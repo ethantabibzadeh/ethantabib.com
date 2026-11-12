@@ -3766,5 +3766,57 @@
         "restaurant": null
       }
     ]
+  },
+  {
+    "slug": "austin",
+    "name": "Austin",
+    "country": "United States",
+    "lat": 30,
+    "lng": -98,
+    "notes": "",
+    "media": [
+      {
+        "src": "assets/austin-IMG_8769.jpeg",
+        "section": "gallery",
+        "date": "2024-03-24",
+        "caption": "Lady Bird Lake and the Austin skyline",
+        "restaurant": null
+      },
+      {
+        "src": "assets/austin-IMG_0091.jpeg",
+        "section": "gallery",
+        "date": "2024-03-23",
+        "caption": "",
+        "restaurant": null
+      },
+      {
+        "src": "assets/austin-IMG_9409.jpeg",
+        "section": "gallery",
+        "date": "2024-03-23",
+        "caption": "",
+        "restaurant": null
+      },
+      {
+        "src": "assets/austin-IMG_8724.jpeg",
+        "section": "gallery",
+        "date": "2024-03-23",
+        "caption": "The University of Texas at Austin",
+        "restaurant": null
+      },
+      {
+        "src": "assets/austin-IMG_8723.jpeg",
+        "section": "eats",
+        "date": "2024-03-23",
+        "caption": "Lunch with friends in Austin",
+        "restaurant": null
+      },
+      {
+        "src": "assets/austin-IMG_8744.jpeg",
+        "section": "eats",
+        "date": "2024-03-23",
+        "caption": "",
+        "restaurant": null
+      }
+    ]
   }
 ]
