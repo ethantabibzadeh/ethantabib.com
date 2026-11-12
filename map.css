@@ -42,3 +42,5 @@
 @media(max-width:850px){#mapPlaces{grid-template-columns:repeat(3,minmax(0,1fr))}.map-main{padding:28px 3% 0}.map-heading h1{font-size:58px}}
 @media(max-width:560px){.map-heading{display:block;padding-bottom:18px}.map-heading h1{font-size:45px}.map-reset{margin-top:14px}.map-frame{padding:6px;border-radius:17px}.map-page #travelMap{height:72svh;min-height:450px;border-radius:11px}.map-regions{gap:6px}.map-regions button{padding:9px 13px;font-size:11px}#mapPlaces{grid-template-columns:repeat(2,minmax(0,1fr));gap:12px}.map-place-card img{height:130px}.map-place-card .map-place-copy{padding:12px}.map-destinations h2{font-size:30px}.map-place-copy strong{font-size:13px}}
 @media(prefers-reduced-motion:reduce){.map-reset,#mapPlaces .map-place-card{transition:none;transform:none!important}}
+
+.journey-cluster .journey-pin{background:#e5c779;border-color:#fffdf4}.journey-cluster .journey-pin>span{background:#167d8d;color:#fff}
