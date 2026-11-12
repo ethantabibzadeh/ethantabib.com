@@ -1,0 +1,44 @@
+/* Bright Mediterranean map page; shared typography is unchanged. */
+.map-page{background:#fffaf0;color:var(--ink)}
+.map-page header{background:rgba(255,250,240,.96);border-bottom:1px solid #e8e3d2}
+.map-main{padding:42px 4% 0;background:radial-gradient(ellipse at 92% 0%,#f6df9c80,transparent 38%),radial-gradient(ellipse at 0% 30%,#bcebe96b,transparent 40%)}
+.map-heading{padding:0 1% 28px;align-items:center}
+.map-heading h1{color:#194d53;font-size:clamp(44px,5.5vw,82px);margin:8px 0;letter-spacing:-2px}
+.map-heading h1 em{color:var(--teal)}
+.map-reset{background:var(--gold);border:1px solid #d3ae53;color:#233f3c;font-weight:600;box-shadow:0 4px 16px #b99a4730}
+.map-reset:hover{background:#efd68c;transform:translateY(-1px)}
+.map-frame{position:relative;padding:10px;background:white;border:1px solid #d9e5df;border-radius:22px;box-shadow:0 18px 65px #166d7b18}
+.map-page #travelMap{height:76svh;min-height:540px;border-radius:14px;background:#a9dce4}
+.map-page .leaflet-tile-pane{filter:saturate(1.24) brightness(1.025)}
+.map-regions{display:flex;gap:6px;flex-wrap:wrap;margin:0 0 14px;padding:0 1%}
+.map-regions button{border:1px solid #b8d7d5;border-radius:30px;padding:10px 18px;background:#fffdf7;color:#225b61;font-size:12px;font-weight:600;transition:background .15s}
+.map-regions button[aria-pressed="true"]{background:var(--teal);border-color:var(--teal);color:white;box-shadow:0 4px 12px #167d8d25}
+.map-regions button:hover{border-color:var(--teal)}
+.journey-marker{background:transparent;border:0}
+.journey-pin{display:flex;align-items:center;justify-content:center;width:32px;height:32px;transform:rotate(-45deg);border:3px solid white;border-radius:50% 50% 50% 5px;background:#167d8d;box-shadow:0 3px 9px #174c5c65}
+.journey-pin>span{display:flex;align-items:center;justify-content:center;width:16px;height:16px;border-radius:50%;background:#f1d17b;color:#164e56;transform:rotate(45deg);font:700 10px 'DM Sans',sans-serif}
+.journey-marker:hover .journey-pin,.journey-marker:focus .journey-pin{background:#0c5969;box-shadow:0 4px 15px #174c5c90}
+.map-page .leaflet-popup-content-wrapper{border-radius:15px;background:#fffdf7;padding:5px;box-shadow:0 12px 35px #14444e38}
+.map-page .leaflet-popup-content{margin:12px;max-height:350px;overflow-y:auto}
+.map-page .leaflet-popup-tip{background:#fffdf7}
+.map-popup-gallery{display:grid;gap:12px}
+.map-popup-card{display:grid;grid-template-columns:75px 1fr;align-items:center;gap:12px;color:var(--ink)!important}
+.map-popup-card img{width:75px;height:72px;object-fit:cover;border-radius:9px}
+.map-place-copy{display:flex;flex-direction:column;gap:5px}
+.map-place-copy small{font:600 9px 'DM Sans',sans-serif;letter-spacing:1px;text-transform:uppercase;color:#567b78}
+.map-place-copy strong{font:600 14px 'DM Sans',sans-serif}
+.map-page .journey-tooltip{border:0;border-radius:8px;background:#fffdf7;color:#195c65;padding:8px 12px;box-shadow:0 3px 15px #1c69652a;font:600 12px 'DM Sans',sans-serif}
+.map-page .leaflet-control-zoom{border:0;box-shadow:0 3px 18px #21566626;border-radius:12px;overflow:hidden;margin:0 18px 25px 0}
+.map-page .leaflet-control-zoom a{color:#176674;background:#fffdf7;width:38px;height:38px;line-height:38px}
+.map-destinations{padding:44px 1% 58px}
+.map-destinations h2{font-size:36px;letter-spacing:-1px;color:#194d53;margin-bottom:25px}
+#mapPlaces{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:18px}
+#mapPlaces .map-place-card{padding:0;border:1px solid #e4e8db;border-radius:14px;background:#fffdf8;overflow:hidden;box-shadow:0 4px 16px #1b60520a;transition:transform .2s,box-shadow .2s}
+.map-place-card img{display:block;width:100%;height:150px;object-fit:cover}
+.map-place-card .map-place-copy{padding:15px}
+#mapPlaces .map-place-card:hover{background:#fffdf8;color:var(--ink);transform:translateY(-4px);box-shadow:0 10px 24px #1b605220}
+.map-page footer{background:#f3e4bc;border-top:1px solid #e5d49d;color:#244e50}
+.map-unavailable{background:#e5f3ed;color:#195c65;border-radius:14px}
+@media(max-width:850px){#mapPlaces{grid-template-columns:repeat(3,minmax(0,1fr))}.map-main{padding:28px 3% 0}.map-heading h1{font-size:58px}}
+@media(max-width:560px){.map-heading{display:block;padding-bottom:18px}.map-heading h1{font-size:45px}.map-reset{margin-top:14px}.map-frame{padding:6px;border-radius:17px}.map-page #travelMap{height:72svh;min-height:450px;border-radius:11px}.map-regions{gap:6px}.map-regions button{padding:9px 13px;font-size:11px}#mapPlaces{grid-template-columns:repeat(2,minmax(0,1fr));gap:12px}.map-place-card img{height:130px}.map-place-card .map-place-copy{padding:12px}.map-destinations h2{font-size:30px}.map-place-copy strong{font-size:13px}}
+@media(prefers-reduced-motion:reduce){.map-reset,#mapPlaces .map-place-card{transition:none;transform:none!important}}
