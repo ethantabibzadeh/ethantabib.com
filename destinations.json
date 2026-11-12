@@ -303,6 +303,21 @@
         "date": "2024-08-19",
         "caption": "",
         "restaurant": null
+      },
+      {
+        "src": "assets/amsterdam-eats-IMG_5166.jpeg",
+        "section": "eats",
+        "date": "2023-08-06",
+        "caption": "",
+        "restaurant": null
+      },
+      {
+        "src": "assets/amsterdam-dining.mov",
+        "section": "eats",
+        "date": "2023-08-06",
+        "caption": "A meal with friends in Amsterdam",
+        "restaurant": null,
+        "type": "video"
       }
     ]
   },
@@ -896,6 +911,27 @@
         "date": "2023-08-04",
         "caption": "",
         "restaurant": null
+      },
+      {
+        "src": "assets/germany-eats-IMG_5138.jpeg",
+        "section": "eats",
+        "date": "2023-08-05",
+        "caption": "",
+        "restaurant": null
+      },
+      {
+        "src": "assets/germany-eats-IMG_5142.jpeg",
+        "section": "eats",
+        "date": "2023-08-05",
+        "caption": "",
+        "restaurant": null
+      },
+      {
+        "src": "assets/germany-eats-IMG_5144.jpeg",
+        "section": "eats",
+        "date": "2023-08-05",
+        "caption": "",
+        "restaurant": null
       }
     ]
   },
@@ -1426,6 +1462,13 @@
         "section": "gallery",
         "date": "2023-08-01",
         "caption": "Through the Swiss mountains by train"
+      },
+      {
+        "src": "assets/switzerland-eats-IMG_4976.jpeg",
+        "section": "eats",
+        "date": "2023-08-02",
+        "caption": "",
+        "restaurant": null
       }
     ]
   },
