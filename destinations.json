@@ -141,13 +141,6 @@
         "restaurant": null
       },
       {
-        "src": "assets/costa-rica-IMG_8401.jpeg",
-        "section": "gallery",
-        "date": "2026-03-23",
-        "caption": "",
-        "restaurant": null
-      },
-      {
         "src": "assets/costa-rica-eats-IMG_1721.jpeg",
         "section": "eats",
         "date": "2016-01-07",
@@ -2540,6 +2533,14 @@
         "date": "2021-06-16",
         "caption": "",
         "restaurant": null
+      },
+      {
+        "src": "assets/hawaii-scooters.mov",
+        "type": "video",
+        "section": "gallery",
+        "date": "2021-06-18",
+        "caption": "A scooter ride in Hawaii",
+        "restaurant": null
       }
     ]
   },
@@ -3815,6 +3816,59 @@
         "section": "eats",
         "date": "2024-03-23",
         "caption": "",
+        "restaurant": null
+      }
+    ]
+  },
+  {
+    "slug": "puerto-vallarta",
+    "name": "Puerto Vallarta",
+    "country": "Mexico",
+    "lat": 21,
+    "lng": -105,
+    "notes": "",
+    "media": [
+      {
+        "src": "assets/puerto-vallarta-IMG_0008.jpeg",
+        "section": "gallery",
+        "date": "2022-12-23",
+        "caption": "Sunset at Marina Vallarta",
+        "restaurant": null
+      },
+      {
+        "src": "assets/puerto-vallarta-IMG_0055.jpeg",
+        "section": "gallery",
+        "date": "2022-12-25",
+        "caption": "",
+        "restaurant": null
+      },
+      {
+        "src": "assets/puerto-vallarta-eats-IMG_0297.jpeg",
+        "section": "eats",
+        "date": "2022-12-24",
+        "caption": "A meal with family in Puerto Vallarta",
+        "restaurant": null
+      },
+      {
+        "src": "assets/puerto-vallarta-eats-IMG_0305.jpeg",
+        "section": "eats",
+        "date": "2022-12-24",
+        "caption": "A meal with family in Puerto Vallarta",
+        "restaurant": null
+      },
+      {
+        "src": "assets/puerto-vallarta-eats-IMG_0306.jpeg",
+        "section": "eats",
+        "date": "2022-12-24",
+        "caption": "A meal with family in Puerto Vallarta",
+        "restaurant": null
+      },
+      {
+        "src": "assets/puerto-vallarta-dining.mov",
+        "section": "eats",
+        "type": "video",
+        "date": "2022-12-25",
+        "caption": "Dinner with family in Puerto Vallarta",
         "restaurant": null
       }
     ]
