@@ -3872,5 +3872,512 @@
         "restaurant": null
       }
     ]
+  },
+  {
+    "slug": "san-francisco",
+    "name": "San Francisco",
+    "country": "United States",
+    "lat": 38,
+    "lng": -122,
+    "notes": "",
+    "media": [
+      {
+        "src": "assets/san-francisco-IMG_5308.jpeg",
+        "section": "gallery",
+        "date": "2022-04-10",
+        "caption": "",
+        "restaurant": null
+      },
+      {
+        "src": "assets/san-francisco-IMG_5313.jpeg",
+        "section": "gallery",
+        "date": "2022-04-10",
+        "caption": "",
+        "restaurant": null
+      },
+      {
+        "src": "assets/san-francisco-IMG_5342.jpeg",
+        "section": "gallery",
+        "date": "2022-04-10",
+        "caption": "",
+        "restaurant": null
+      },
+      {
+        "src": "assets/san-francisco-IMG_5364.jpeg",
+        "section": "gallery",
+        "date": "2022-04-10",
+        "caption": "",
+        "restaurant": null
+      },
+      {
+        "src": "assets/san-francisco-IMG_5370.jpeg",
+        "section": "gallery",
+        "date": "2022-04-10",
+        "caption": "",
+        "restaurant": null
+      },
+      {
+        "src": "assets/san-francisco-IMG_5385.jpeg",
+        "section": "gallery",
+        "date": "2022-04-10",
+        "caption": "",
+        "restaurant": null
+      },
+      {
+        "src": "assets/san-francisco-IMG_5386.mov",
+        "section": "gallery",
+        "date": "2022-04-10",
+        "caption": "Around the Castro in San Francisco",
+        "restaurant": null,
+        "type": "video"
+      },
+      {
+        "src": "assets/san-francisco-IMG_5390.jpeg",
+        "section": "gallery",
+        "date": "2022-04-10",
+        "caption": "",
+        "restaurant": null
+      },
+      {
+        "src": "assets/san-francisco-eats-67125586864__57E87550-4EEC-4C4A-B88A-4FF9EE9BBA8C.fullsizerender.jpeg",
+        "section": "eats",
+        "date": "2022-04-09",
+        "caption": "",
+        "restaurant": "John’s Grill"
+      },
+      {
+        "src": "assets/san-francisco-eats-IMG_5270.mov",
+        "section": "eats",
+        "date": "2022-04-09",
+        "caption": "Steak dinner at John’s Grill",
+        "restaurant": "John’s Grill",
+        "type": "video"
+      }
+    ]
+  },
+  {
+    "slug": "san-juan",
+    "name": "San Juan",
+    "country": "Puerto Rico",
+    "lat": 18,
+    "lng": -66,
+    "notes": "",
+    "media": [
+      {
+        "src": "assets/san-juan-4FF33EFD-C2B7-43D2-A1D1-11E9519BF811.mov",
+        "section": "gallery",
+        "date": "2025-03-22",
+        "caption": "An evening in Old San Juan",
+        "restaurant": null,
+        "type": "video"
+      },
+      {
+        "src": "assets/san-juan-IMG_0435.jpeg",
+        "section": "gallery",
+        "date": "2025-03-24",
+        "caption": "",
+        "restaurant": null
+      },
+      {
+        "src": "assets/san-juan-IMG_3998.jpeg",
+        "section": "gallery",
+        "date": "2025-03-22",
+        "caption": "",
+        "restaurant": null
+      },
+      {
+        "src": "assets/san-juan-IMG_4018.jpeg",
+        "section": "gallery",
+        "date": "2025-03-22",
+        "caption": "",
+        "restaurant": null
+      },
+      {
+        "src": "assets/san-juan-IMG_4038.jpeg",
+        "section": "gallery",
+        "date": "2025-03-22",
+        "caption": "",
+        "restaurant": null
+      },
+      {
+        "src": "assets/san-juan-IMG_4052.jpeg",
+        "section": "gallery",
+        "date": "2025-03-22",
+        "caption": "",
+        "restaurant": null
+      },
+      {
+        "src": "assets/san-juan-IMG_4068.jpeg",
+        "section": "gallery",
+        "date": "2025-03-22",
+        "caption": "",
+        "restaurant": null
+      },
+      {
+        "src": "assets/san-juan-IMG_4087.jpeg",
+        "section": "gallery",
+        "date": "2025-03-23",
+        "caption": "",
+        "restaurant": null
+      },
+      {
+        "src": "assets/san-juan-IMG_4090.jpeg",
+        "section": "gallery",
+        "date": "2025-03-23",
+        "caption": "",
+        "restaurant": null
+      },
+      {
+        "src": "assets/san-juan-IMG_4119.jpeg",
+        "section": "gallery",
+        "date": "2025-03-24",
+        "caption": "",
+        "restaurant": null
+      },
+      {
+        "src": "assets/san-juan-IMG_4127.jpeg",
+        "section": "gallery",
+        "date": "2025-03-24",
+        "caption": "",
+        "restaurant": null
+      },
+      {
+        "src": "assets/san-juan-IMG_4136.jpeg",
+        "section": "gallery",
+        "date": "2025-03-24",
+        "caption": "",
+        "restaurant": null
+      },
+      {
+        "src": "assets/san-juan-IMG_4153.jpeg",
+        "section": "gallery",
+        "date": "2025-03-24",
+        "caption": "",
+        "restaurant": null
+      },
+      {
+        "src": "assets/san-juan-IMG_4160.jpeg",
+        "section": "gallery",
+        "date": "2025-03-24",
+        "caption": "",
+        "restaurant": null
+      },
+      {
+        "src": "assets/san-juan-IMG_4161.jpeg",
+        "section": "gallery",
+        "date": "2025-03-24",
+        "caption": "",
+        "restaurant": null
+      },
+      {
+        "src": "assets/san-juan-IMG_4168.jpeg",
+        "section": "gallery",
+        "date": "2025-03-24",
+        "caption": "",
+        "restaurant": null
+      },
+      {
+        "src": "assets/san-juan-IMG_4178.jpeg",
+        "section": "gallery",
+        "date": "2025-03-24",
+        "caption": "",
+        "restaurant": null
+      },
+      {
+        "src": "assets/san-juan-IMG_4184.jpeg",
+        "section": "gallery",
+        "date": "2025-03-24",
+        "caption": "",
+        "restaurant": null
+      },
+      {
+        "src": "assets/san-juan-eats-IMG_4056.jpeg",
+        "section": "eats",
+        "date": "2025-03-22",
+        "caption": "",
+        "restaurant": null
+      },
+      {
+        "src": "assets/san-juan-eats-IMG_4085.jpeg",
+        "section": "eats",
+        "date": "2025-03-23",
+        "caption": "",
+        "restaurant": null
+      }
+    ]
+  },
+  {
+    "slug": "rincon",
+    "name": "Rincón",
+    "country": "Puerto Rico",
+    "lat": 18,
+    "lng": -67,
+    "notes": "",
+    "media": [
+      {
+        "src": "assets/rincon-5CBD237C-0A0E-4930-8549-49B1B0BE298E.mov",
+        "section": "gallery",
+        "date": "2025-03-27",
+        "caption": "Sunset on the coast of Rincón",
+        "restaurant": null,
+        "type": "video"
+      },
+      {
+        "src": "assets/rincon-IMG_4251.jpeg",
+        "section": "gallery",
+        "date": "2025-03-26",
+        "caption": "",
+        "restaurant": null
+      },
+      {
+        "src": "assets/rincon-IMG_4261.jpeg",
+        "section": "gallery",
+        "date": "2025-03-26",
+        "caption": "",
+        "restaurant": null
+      },
+      {
+        "src": "assets/rincon-IMG_4263.jpeg",
+        "section": "gallery",
+        "date": "2025-03-26",
+        "caption": "",
+        "restaurant": null
+      },
+      {
+        "src": "assets/rincon-IMG_4266.jpeg",
+        "section": "gallery",
+        "date": "2025-03-26",
+        "caption": "",
+        "restaurant": null
+      },
+      {
+        "src": "assets/rincon-IMG_4280.jpeg",
+        "section": "gallery",
+        "date": "2025-03-27",
+        "caption": "",
+        "restaurant": null
+      },
+      {
+        "src": "assets/rincon-IMG_4285.jpeg",
+        "section": "gallery",
+        "date": "2025-03-27",
+        "caption": "",
+        "restaurant": null
+      },
+      {
+        "src": "assets/rincon-IMG_4301.jpeg",
+        "section": "gallery",
+        "date": "2025-03-27",
+        "caption": "",
+        "restaurant": null
+      },
+      {
+        "src": "assets/rincon-IMG_4308.jpeg",
+        "section": "gallery",
+        "date": "2025-03-27",
+        "caption": "",
+        "restaurant": null
+      },
+      {
+        "src": "assets/rincon-IMG_4310.jpeg",
+        "section": "gallery",
+        "date": "2025-03-27",
+        "caption": "",
+        "restaurant": null
+      },
+      {
+        "src": "assets/rincon-IMG_4326.jpeg",
+        "section": "gallery",
+        "date": "2025-03-27",
+        "caption": "",
+        "restaurant": null
+      },
+      {
+        "src": "assets/rincon-IMG_4335.jpeg",
+        "section": "gallery",
+        "date": "2025-03-27",
+        "caption": "",
+        "restaurant": null
+      },
+      {
+        "src": "assets/rincon-IMG_4339.jpeg",
+        "section": "gallery",
+        "date": "2025-03-27",
+        "caption": "",
+        "restaurant": null
+      },
+      {
+        "src": "assets/rincon-IMG_4356.jpeg",
+        "section": "gallery",
+        "date": "2025-03-28",
+        "caption": "",
+        "restaurant": null
+      },
+      {
+        "src": "assets/rincon-IMG_4358.jpeg",
+        "section": "gallery",
+        "date": "2025-03-28",
+        "caption": "",
+        "restaurant": null
+      },
+      {
+        "src": "assets/rincon-eats-IMG_4274.jpeg",
+        "section": "eats",
+        "date": "2025-03-26",
+        "caption": "",
+        "restaurant": null
+      },
+      {
+        "src": "assets/rincon-eats-IMG_4275.jpeg",
+        "section": "eats",
+        "date": "2025-03-26",
+        "caption": "",
+        "restaurant": null
+      }
+    ]
+  },
+  {
+    "slug": "las-vegas",
+    "name": "Las Vegas",
+    "country": "United States",
+    "lat": 36,
+    "lng": -115,
+    "notes": "",
+    "media": [
+      {
+        "src": "assets/las-vegas-IMG_0008.jpeg",
+        "section": "gallery",
+        "date": "2024-05-11",
+        "caption": "",
+        "restaurant": null
+      },
+      {
+        "src": "assets/las-vegas-IMG_0721.jpeg",
+        "section": "gallery",
+        "date": "2026-05-09",
+        "caption": "",
+        "restaurant": null
+      },
+      {
+        "src": "assets/las-vegas-IMG_0762.jpeg",
+        "section": "gallery",
+        "date": "2026-05-09",
+        "caption": "",
+        "restaurant": null
+      },
+      {
+        "src": "assets/las-vegas-IMG_0770.jpeg",
+        "section": "gallery",
+        "date": "2026-05-09",
+        "caption": "",
+        "restaurant": null
+      },
+      {
+        "src": "assets/las-vegas-IMG_0793.jpeg",
+        "section": "gallery",
+        "date": "2026-05-09",
+        "caption": "",
+        "restaurant": null
+      },
+      {
+        "src": "assets/las-vegas-IMG_0830.jpeg",
+        "section": "gallery",
+        "date": "2026-05-09",
+        "caption": "",
+        "restaurant": null
+      },
+      {
+        "src": "assets/las-vegas-IMG_0865.jpeg",
+        "section": "gallery",
+        "date": "2026-05-10",
+        "caption": "",
+        "restaurant": null
+      },
+      {
+        "src": "assets/las-vegas-IMG_1580.jpeg",
+        "section": "gallery",
+        "date": "2024-12-22",
+        "caption": "",
+        "restaurant": null
+      },
+      {
+        "src": "assets/las-vegas-IMG_9481.jpeg",
+        "section": "gallery",
+        "date": "2026-05-09",
+        "caption": "",
+        "restaurant": null
+      },
+      {
+        "src": "assets/las-vegas-IMG_9988.jpeg",
+        "section": "gallery",
+        "date": "2024-05-11",
+        "caption": "",
+        "restaurant": null
+      },
+      {
+        "src": "assets/las-vegas-eats-7F17CAAF-2293-4C84-BC6F-58F6DA590DD0.mov",
+        "section": "eats",
+        "date": "2024-12-23",
+        "caption": "Hibachi dinner in Las Vegas",
+        "restaurant": null,
+        "type": "video"
+      },
+      {
+        "src": "assets/las-vegas-eats-IMG_0686.jpeg",
+        "section": "eats",
+        "date": "2026-05-08",
+        "caption": "",
+        "restaurant": null
+      },
+      {
+        "src": "assets/las-vegas-eats-IMG_0687.jpeg",
+        "section": "eats",
+        "date": "2026-05-08",
+        "caption": "",
+        "restaurant": null
+      },
+      {
+        "src": "assets/las-vegas-eats-IMG_0693.jpeg",
+        "section": "eats",
+        "date": "2026-05-08",
+        "caption": "",
+        "restaurant": null
+      },
+      {
+        "src": "assets/las-vegas-eats-IMG_1566.jpeg",
+        "section": "eats",
+        "date": "2024-12-22",
+        "caption": "",
+        "restaurant": null
+      },
+      {
+        "src": "assets/las-vegas-eats-IMG_1569.jpeg",
+        "section": "eats",
+        "date": "2024-12-22",
+        "caption": "",
+        "restaurant": "Papi Steak"
+      },
+      {
+        "src": "assets/las-vegas-eats-IMG_1658.jpeg",
+        "section": "eats",
+        "date": "2024-12-24",
+        "caption": "",
+        "restaurant": null
+      },
+      {
+        "src": "assets/las-vegas-eats-IMG_1676.jpeg",
+        "section": "eats",
+        "date": "2024-12-24",
+        "caption": "",
+        "restaurant": null
+      },
+      {
+        "src": "assets/las-vegas-eats-IMG_5256.jpeg",
+        "section": "eats",
+        "date": "2025-05-09",
+        "caption": "",
+        "restaurant": null
+      }
+    ]
   }
 ]
