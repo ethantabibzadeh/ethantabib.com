@@ -1033,6 +1033,14 @@
         "date": "2023-07-19",
         "caption": "",
         "restaurant": null
+      },
+      {
+        "src": "assets/london-camden.mov",
+        "section": "gallery",
+        "date": "2023-07-18",
+        "caption": "A walk through Camden, London",
+        "restaurant": null,
+        "type": "video"
       }
     ]
   },
